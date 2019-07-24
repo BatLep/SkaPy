@@ -6,5 +6,7 @@ The Skapy_script1 runs a classification of the fractures into structural sets,
   - separated per outcrop,
   - or separated per lithology.
   
- If you would need a dataset to run an example, please feel free to contact me at:
+ If you would need a dataset to run an example, you could use the here-attached .csv file.
+ 
+ If you would need more information, please contact me @:
  b.p.lepillier@tudelft.nl
