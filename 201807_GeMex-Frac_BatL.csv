@@ -1,0 +1,635 @@
+Index;m_in;m_out;Direction;Surf_Dir;Surf_Dip;Type ;Structural ;F_Az;F_Dip;F_Quadramt;F_Pitch ;F_F;Q;Filling;Aperture_txt;Ap_min;F_Ap;Ap_max;Extent_Raw;Ext_min;Ext_max;Hmin;F_H;Hmax;Lmin;F_L;Lmax;Rock_Type;Comments;Outcrop Name;Out_Code;Outcrop Zone
+0;0;1;N;160;54;fracture;N;160;82;E;;F5;1;;0;0;0;0;>10;10;25;8.09;14.16;20.23;5.88;10.29;14.69;Skarn;;Boquillas;BOQ1;Boq Main
+1;0;1;N;160;54;fracture;N;150;89;E;;F5;1;;0;0;0;0;>10;10;25;8.09;14.16;20.23;5.88;10.29;14.69;Skarn;;Boquillas;BOQ1;Boq Main
+2;0;1;N;160;54;fracture;N;150;80;W;;F5;1;;0;0;0;0;>10;10;25;8.09;14.16;20.23;5.88;10.29;14.69;Skarn;;Boquillas;BOQ1;Boq Main
+3;0;1;N;160;54;fracture;N;70;85;S;;F1;5;;0;0;0;0;2;2;2;1.62;1.62;1.62;1.18;1.18;1.18;Skarn;;Boquillas;BOQ1;Boq Main
+4;0;1;N;160;54;fracture;N;28;60;E;;F3;2;;0;0;0;0;[0.5-1];0.5;1;0.4;0.61;0.81;0.29;0.44;0.59;Skarn;;Boquillas;BOQ1;Boq Main
+5;0;1;N;160;54;fracture;N;93;30;N;;F6;8;;0;0;0;0;[0.4-2];0.4;2;0.32;0.97;1.62;0.24;0.71;1.18;Skarn;discreet frature;Boquillas;BOQ1;Boq Main
+6;1;2;N;160;67;fracture;N;172;85;W;;F5;4;;0;0;0;0;>10;10;25;9.21;16.11;23.01;3.91;6.84;9.77;Skarn;;Boquillas;BOQ1;Boq Main
+7;1;2;N;160;67;fracture;N;38;82;E;;F3;1;iron oxydes;0;0;0;0;1;1;1;0.92;0.92;0.92;0.39;0.39;0.39;Skarn;;Boquillas;BOQ1;Boq Main
+8;2;3;N;160;67;fracture;N;82;80;S;;F7;5;iron brownish;<mm;0.05;0.05;0.05;0.5;0.5;0.5;0.46;0.46;0.46;0.2;0.2;0.2;Skarn;;Boquillas;BOQ1;Boq Main
+9;2;3;N;160;67;fracture;N;162;72;W;;F5;3;iron brownish;0;0;0;0;>10;10;25;9.21;16.11;23.01;3.91;6.84;9.77;Skarn;;Boquillas;BOQ1;Boq Main
+10;2;3;N;160;67;fracture;N;60;15;W;;F1;3;;0;0;0;0;1;1;1;0.92;0.92;0.92;0.39;0.39;0.39;Skarn;;Boquillas;BOQ1;Boq Main
+11;3;4;N;130;75;fracture;N;128;80;SW;;F2;4;dark brown oxydes;0;0;0;0;2;2;2;1.93;1.93;1.93;0.52;0.52;0.52;Skarn;;Boquillas;BOQ1;Boq Main
+12;3;4;N;130;75;fracture;N;50;75;SE;;F1;6;;0;0;0;0;3;3;3;2.9;2.9;2.9;0.78;0.78;0.78;Skarn;;Boquillas;BOQ1;Boq Main
+13;3;4;N;130;75;fracture;N;2;28;W;;F5;7;;0;0;0;0;[0.2-0.4];0.2;0.4;0.19;0.29;0.39;0.05;0.08;0.1;Skarn;;Boquillas;BOQ1;Boq Main
+14;4;6;N;130;75;quartz vein;N;110;60;N;;F4;1;;0;0;0;0;[1-5];1;5;0.97;2.9;4.83;0.26;0.78;1.29;Skarn;;Boquillas;BOQ1;Boq Main
+15;4;6;N;130;75;fracture;N;120;65;N;;F2;1;;0;0;0;0;[1-10];1;10;0.97;5.31;9.66;0.26;1.42;2.59;Skarn;;Boquillas;BOQ1;Boq Main
+16;6;7;N;130;75;fracture;N;28;72;E;;F3;4;;0;0;0;0;0.4;0.4;0.4;0.39;0.39;0.39;0.1;0.1;0.1;Skarn;;Boquillas;BOQ1;Boq Main
+17;6;7;N;130;75;fracture;N;112;70;S;;F4;4;;0;0;0;0;4;4;4;3.86;3.86;3.86;1.04;1.04;1.04;Skarn;;Boquillas;BOQ1;Boq Main
+18;6;7;N;130;75;fracture;N;120;12;NE;;F6;6;;0;0;0;0;0.5;0.5;0.5;0.48;0.48;0.48;0.13;0.13;0.13;Skarn;;Boquillas;BOQ1;Boq Main
+19;7;8;N;165;70;fracture;N;30;80;SE;;F3;5;;0;0;0;0;[0.1-2];0.1;2;0.09;0.99;1.88;0.03;0.36;0.68;Skarn;Magnetite;Boquillas;BOQ1;Boq Main
+20;7;8;N;165;70;fracture;N;76;59;N;;F7;1;;0;0;0;0;[0.25-1];0.25;1;0.23;0.59;0.94;0.09;0.21;0.34;Skarn;;Boquillas;BOQ1;Boq Main
+21;7;8;N;165;70;fracture;N;168;56;SW;;F5;1;;0;0;0;0;2;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Skarn;;Boquillas;BOQ1;Boq Main
+22;7;8;N;165;70;fracture;N;110;84;S;;F4;2;;0;0;0;0;4;4;4;3.76;3.76;3.76;1.37;1.37;1.37;Skarn;;Boquillas;BOQ1;Boq Main
+23;7;8;N;165;70;fracture;N;52;70;E;;F1;1;;0;0;0;0;1;1;1;0.94;0.94;0.94;0.34;0.34;0.34;Skarn;;Boquillas;BOQ1;Boq Main
+24;8;9;N;165;70;fracture;N;180;75;W;;F5;2;;0;0;0;0;[1-2];1;2;0.94;1.41;1.88;0.34;0.51;0.68;Skarn;Magnetite;Boquillas;BOQ1;Boq Main
+25;8;9;N;165;70;fracture;N;100;80;N;;F4;1;;0;0;0;0;0.4;0.4;0.4;0.38;0.38;0.38;0.14;0.14;0.14;Skarn;;Boquillas;BOQ1;Boq Main
+26;8;9;N;165;70;fracture;N;95;28;N;;F6;3;;0;0;0;0;1.5;1.5;1.5;1.41;1.41;1.41;0.51;0.51;0.51;Skarn;;Boquillas;BOQ1;Boq Main
+27;9;10;N;165;70;fracture;N;50;65;S;;F1;3;;0;0;0;0;[1-2];1;2;0.94;1.41;1.88;0.34;0.51;0.68;Skarn;;Boquillas;BOQ1;Boq Main
+28;9;10;N;165;70;fracture;N;84;70;S;;F7;2;;0;0;0;0;2;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Skarn;;Boquillas;BOQ1;Boq Main
+29;9;10;N;165;70;fracture;N;152;82;W;;F5;3;;0;0;0;0;5;5;5;4.7;4.7;4.7;1.71;1.71;1.71;Skarn;;Boquillas;BOQ1;Boq Main
+30;10;11;N;165;70;fracture;N;94;72;S;;F4;6;;0;0;0;0;1;1;1;0.94;0.94;0.94;0.34;0.34;0.34;Skarn;Magnetite;Boquillas;BOQ1;Boq Main
+31;10;11;N;165;70;fracture;N;20;76;SE;;F3;10;;0;0;0;0;0.2;0.2;0.2;0.19;0.19;0.19;0.07;0.07;0.07;Skarn;;Boquillas;BOQ1;Boq Main
+32;10;11;N;165;70;fault;N;60;63;SE;;F1;1;;[0.5-2]cm;0.5;1.25;2;5;5;5;4.7;4.7;4.7;1.71;1.71;1.71;Skarn;;Boquillas;BOQ1;Boq Main
+33;10;11;N;165;70;fault;N;20;65;SE;;F3;1;;0;0;0;0;5;5;5;4.7;4.7;4.7;1.71;1.71;1.71;Skarn;;Boquillas;BOQ1;Boq Main
+34;10;11;N;165;70;fracture;N;110;70;N;;F4;4;;0;0;0;0;[1-2];1;2;0.94;1.41;1.88;0.34;0.51;0.68;Skarn;;Boquillas;BOQ1;Boq Main
+35;11;12;N;140;78;fracture;N;4;70;E;;F5;3;;0;0;0;0;>6;6;12;5.87;8.8;11.74;1.25;1.87;2.49;Skarn;Magnetite;Boquillas;BOQ1;Boq Main
+36;11;12;N;140;78;fracture;N;88;70;S;;F7;7;;0;0;0;0;[1-10];1;10;0.98;5.38;9.78;0.21;1.14;2.08;Skarn;;Boquillas;BOQ1;Boq Main
+37;11;12;N;140;78;fracture;N;172;28;W;;F5;4;;0;0;0;0;[1-2];1;2;0.98;1.47;1.96;0.21;0.31;0.42;Skarn;;Boquillas;BOQ1;Boq Main
+38;12;13;N;140;78;fracture;N;100;60;S;;F4;3;dark brown oxydes;0;0;0;0;10;10;10;9.78;9.78;9.78;2.08;2.08;2.08;Skarn;;Boquillas;BOQ1;Boq Main
+39;12;13;N;140;78;fracture;N;12;88;E;;F3;2;;0;0;0;0;>5;5;10;4.89;7.34;9.78;1.04;1.56;2.08;Skarn;;Boquillas;BOQ1;Boq Main
+40;12;13;N;140;78;fracture;N;40;70;W;;F3;4;;0;0;0;0;[1-5];1;5;0.98;2.93;4.89;0.21;0.62;1.04;Skarn;;Boquillas;BOQ1;Boq Main
+41;12;13;N;140;78;fracture;N;110;25;N;;F6;4;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.21;0.21;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+42;13;14;N;140;78;fracture;N;40;85;SE;;F3;4;quartz;<5cm;0.05;2.53;5;[6-8];6;8;5.87;6.85;7.83;1.25;1.46;1.66;Skarn;Granodiorite;Boquillas;BOQ1;Boq Main
+43;13;14;N;140;78;fracture;N;108;80;S;;F4;4;;0;0;0;0;4.5;4.5;4.5;4.4;4.4;4.4;0.94;0.94;0.94;Skarn;;Boquillas;BOQ1;Boq Main
+44;13;14;N;140;78;fracture;N;4;8;E;;F5;9;;0;0;0;0;0.5;0.5;0.5;0.49;0.49;0.49;0.1;0.1;0.1;Skarn;;Boquillas;BOQ1;Boq Main
+45;13;14;N;140;78;fracture;N;144;50;NE;;F2;4;brown surface;0;0;0;0;0.5;0.5;0.5;0.49;0.49;0.49;0.1;0.1;0.1;Skarn;;Boquillas;BOQ1;Boq Main
+46;14;15;N;140;78;fracture;N;40;85;S;;F3;3;;0;0;0;0;[2-4];2;4;1.96;2.93;3.91;0.42;0.62;0.83;Skarn;;Boquillas;BOQ1;Boq Main
+47;14;15;N;140;78;fracture;N;85;80;S;;F7;3;;0;0;0;0;[0.5-1];0.5;1;0.49;0.73;0.98;0.1;0.16;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+48;14;15;N;140;78;fracture;N;152;16;NE;;F5;4;;0;0;0;0;[0.7-1];0.7;1;0.68;0.83;0.98;0.15;0.18;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+49;15;16;N;140;78;fracture;N;118;80;SW;;F2;2;;0;0;0;0;>5;5;10;4.89;7.34;9.78;1.04;1.56;2.08;Skarn;;Boquillas;BOQ1;Boq Main
+50;15;16;N;140;78;fracture;N;160;85;E;;F5;2;;0;0;0;0;4;4;4;3.91;3.91;3.91;0.83;0.83;0.83;Skarn;;Boquillas;BOQ1;Boq Main
+51;15;16;N;140;78;fracture;N;38;89;S;;F3;2;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.21;0.21;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+52;15;16;N;140;78;fracture;N;160;15;SW;;F5;6;;0;0;0;0;[0.5-2];0.5;2;0.49;1.22;1.96;0.1;0.26;0.42;Skarn;;Boquillas;BOQ1;Boq Main
+53;15;16;N;140;78;fracture;N;45;50;SE;;F1;1;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.21;0.21;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+54;16;17;N;120;78;fracture;N;115;60;S;;F4;1;;0;0;0;0;>5;5;10;4.89;7.34;9.78;1.04;1.56;2.08;Skarn;;Boquillas;BOQ1;Boq Main
+55;16;17;N;120;78;fracture;N;10;75;N;;F3;4;Pyrite-Magnetite;0;0;0;0;[0.5-3];0.5;3;0.49;1.71;2.93;0.1;0.36;0.62;Skarn;;Boquillas;BOQ1;Boq Main
+56;16;17;N;120;78;fracture;N;120;30;N;;F6;4;whitish (Qtz?);<0.5cm;0.05;0.28;0.5;1;1;1;0.98;0.98;0.98;0.21;0.21;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+57;16;17;N;120;78;fracture;N;6;28;W;;F5;3;white oxyde material - clayish;0;0;0;0;[0.6-0.7];0.6;0.7;0.59;0.64;0.68;0.12;0.14;0.15;Skarn;;Boquillas;BOQ1;Boq Main
+58;17;18;N;130;78;fracture;N;40;85;NW;;F3;1;(Ciment?);<mm;0.05;0.05;0.05;4;4;4;3.91;3.91;3.91;0.83;0.83;0.83;Skarn;;Boquillas;BOQ1;Boq Main
+59;17;18;N;130;78;fracture;N;5;75;E;;F5;3;;0;0;0;0;0.3;0.3;0.3;0.29;0.29;0.29;0.06;0.06;0.06;Skarn;;Boquillas;BOQ1;Boq Main
+60;17;18;N;130;78;fracture;N;60;64;SE;;F1;1;;0;0;0;0;0.5;0.5;0.5;0.49;0.49;0.49;0.1;0.1;0.1;Skarn;;Boquillas;BOQ1;Boq Main
+61;17;18;N;130;78;fracture;N;112;89;S;;F4;3;;0;0;0;0;>5;5;10;4.89;7.34;9.78;1.04;1.56;2.08;Skarn;;Boquillas;BOQ1;Boq Main
+62;17;18;N;130;78;fracture;N;84;25;N;;F6;3;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.21;0.21;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+63;18;19;N;130;78;fracture;N;1;88;W;;F5;4;;0;0;0;0;3;3;3;2.93;2.93;2.93;0.62;0.62;0.62;Skarn;Magnetite;Boquillas;BOQ1;Boq Main
+64;18;19;N;130;78;fracture;N;100;22;N;;F6;6;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.21;0.21;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+65;19;20;N;130;78;fracture;N;125;75;N;;F2;3;;0;0;0;0;>10;10;25;9.78;17.12;24.45;2.08;3.64;5.2;Skarn;Granodiorite;Boquillas;BOQ1;Boq Main
+66;19;20;N;130;78;fracture;N;62;85;N;;F1;2;yellow clayish;0;0;0;0;[2-5];2;5;1.96;3.42;4.89;0.42;0.73;1.04;Skarn;;Boquillas;BOQ1;Boq Main
+67;19;20;N;130;78;fracture;N;160;80;W;;F5;7;;0;0;0;0;[0.5-1];0.5;1;0.49;0.73;0.98;0.1;0.16;0.21;Skarn;;Boquillas;BOQ1;Boq Main
+68;20;21;N;130;78;fracture;N;160;80;E;;F5;6;;0;0;0;0;[0.5-1];0.5;1;0.49;0.73;0.98;0.1;0.16;0.21;Skarn;Granodiorite;Boquillas;BOQ1;Boq Main
+69;20;21;N;130;78;fracture;N;105;70;N;;F4;7;;0;0;0;0;[2-5];2;5;1.96;3.42;4.89;0.42;0.73;1.04;Skarn;;Boquillas;BOQ1;Boq Main
+70;20;21;N;130;78;fracture;N;100;29;S;;F6;5;;0;0;0;0;>1;1;2;0.98;1.47;1.96;0.21;0.31;0.42;Skarn;;Boquillas;BOQ1;Boq Main
+71;21;22;N;130;78;fracture;N;170;80;E;;F5;3;;0;0;0;0;1.5;1.5;1.5;1.47;1.47;1.47;0.31;0.31;0.31;Skarn;Granodiorite;Boquillas;BOQ1;Boq Main
+72;21;22;N;130;78;fracture;N;20;65;E;;F3;5;;0;0;0;0;3;3;3;2.93;2.93;2.93;0.62;0.62;0.62;Skarn;;Boquillas;BOQ1;Boq Main
+73;21;22;N;130;78;fracture;N;80;55;S;;F7;2;;0;0;0;0;0.5;0.5;0.5;0.49;0.49;0.49;0.1;0.1;0.1;Skarn;;Boquillas;BOQ1;Boq Main
+74;22;23;N;210;87;fracture;N;22;82;E;;F3;2;;0;0;0;0;[2-3];2;3;2;2.5;3;0.1;0.13;0.16;Skarn;;Boquillas;BOQ1;Boq Main
+75;22;23;N;210;87;fracture;N;130;85;N;;F2;1;;0;0;0;0;1.5;1.5;1.5;1.5;1.5;1.5;0.08;0.08;0.08;Skarn;;Boquillas;BOQ1;Boq Main
+76;22;23;N;210;87;fracture;N;80;60;S;;F7;3;;0;0;0;0;>5;5;10;4.99;7.49;9.99;0.26;0.39;0.52;Skarn;;Boquillas;BOQ1;Boq Main
+77;22;23;N;210;87;fracture;N;170;80;E;;F5;2;;0;0;0;0;[2-50];2;50;2;25.96;49.93;0.1;1.36;2.62;Skarn;;Boquillas;BOQ1;Boq Main
+78;0;1;N;178;80;fracture;N;178;88;W;;F5;4;;0;0;0;0;>20;20;30;19.7;24.62;29.54;3.47;4.34;5.21;Skarn;Surface plan / Breccia;Boquillas;BOQ2;Boq Upper
+79;0;1;N;178;80;joint;N;120;85;SW;;F2;3;;0;0;0;0;[5-10];5;10;4.92;7.39;9.85;0.87;1.3;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+80;1;2;N;220;80;fracture;N;120;75;SW;;F2;6;;0;0;0;0;[5-10];5;10;4.92;7.39;9.85;0.87;1.3;1.74;Skarn;Granodiorite;Boquillas;BOQ2;Boq Upper
+81;1;2;N;220;80;fracture;N;160;85;W;;F5;3;;0;0;0;0;10;10;10;9.85;9.85;9.85;1.74;1.74;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+82;1;2;N;220;80;fracture;N;180;85;W;;F5;2;;0;0;0;0;10;10;10;9.85;9.85;9.85;1.74;1.74;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+83;1;2;N;220;80;fracture;N;55;74;NW;;F1;4;;0;0;0;0;10;10;10;9.85;9.85;9.85;1.74;1.74;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+84;2;3;N;220;80;fracture;N;145;82;SW;;F2;4;;0;0;0;0;[2-3];2;3;1.97;2.46;2.95;0.35;0.43;0.52;Skarn;;Boquillas;BOQ2;Boq Upper
+85;2;3;N;220;80;fracture;N;104;75;S;;F4;5;;0;0;0;0;5;5;5;4.92;4.92;4.92;0.87;0.87;0.87;Skarn;;Boquillas;BOQ2;Boq Upper
+86;2;3;N;220;80;fracture;N;70;48;N;;F1;2;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.17;0.17;0.17;Skarn;;Boquillas;BOQ2;Boq Upper
+87;2;3;N;220;80;fracture;N;140;15;SW;;F2;7;;0;0;0;0;[0.1-0.2];0.1;0.2;0.1;0.15;0.2;0.02;0.03;0.03;Skarn;;Boquillas;BOQ2;Boq Upper
+88;3;4;N;220;80;set 1;N;98;75;S;;F4;2;;0;0;0;0;[5-10];5;10;4.92;7.39;9.85;0.87;1.3;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+89;3;4;N;220;80;set 1;N;130;75;SW;;F2;2;;0;0;0;0;[5-10];5;10;4.92;7.39;9.85;0.87;1.3;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+90;3;4;N;220;80;set 1;N;115;75;SW;;F4;6;;0;0;0;0;[5-10];5;10;4.92;7.39;9.85;0.87;1.3;1.74;Skarn;;Boquillas;BOQ2;Boq Upper
+91;3;4;N;220;80;fault;N;155;85;SW;/15SE;F5;1;rust filling;0;0;0;0;>10;10;25;9.85;17.23;24.62;1.74;3.04;4.34;Skarn;Strike slip kinematic;Boquillas;BOQ2;Boq Upper
+92;3;4;N;220;80;fracture;N;40;55;NW;;F3;5;;0;0;0;0;4;4;4;3.94;3.94;3.94;0.69;0.69;0.69;Skarn;;Boquillas;BOQ2;Boq Upper
+93;3;4;N;220;80;fracture;N;35;72;N;;F3;1;;0;0;0;0;4;4;4;3.94;3.94;3.94;0.69;0.69;0.69;Skarn;;Boquillas;BOQ2;Boq Upper
+94;4;5;N;220;80;fault;N;155;78;E;/14SE;F5;4;;0;0;0;0;0.5;0.5;0.5;0.49;0.49;0.49;0.09;0.09;0.09;Skarn;Sliken line;Boquillas;BOQ2;Boq Upper
+95;4;5;N;220;80;fracture;N;85;88;S;;F7;1;;0;0;0;0;5;5;5;4.92;4.92;4.92;0.87;0.87;0.87;Skarn;;Boquillas;BOQ2;Boq Upper
+96;4;5;N;220;80;fracture;N;72;75;N;;F1;1;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.17;0.17;0.17;Skarn;;Boquillas;BOQ2;Boq Upper
+97;4;5;N;220;80;fracture;N;55;45;N;;F1;4;;0;0;0;0;[2-3];2;3;1.97;2.46;2.95;0.35;0.43;0.52;Skarn;;Boquillas;BOQ2;Boq Upper
+98;5;6;N;220;80;fracture;N;78;65;N;;F7;3;;0;0;0;0;1;1;1;0.98;0.98;0.98;0.17;0.17;0.17;Skarn;;Boquillas;BOQ2;Boq Upper
+99;5;6;N;220;80;fracture;N;165;80;E;;F5;3;;0;0;0;0;[1-4];1;4;0.98;2.46;3.94;0.17;0.43;0.69;Skarn;;Boquillas;BOQ2;Boq Upper
+100;;;N;;;fracture;N;60;40;N;;F1;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+101;;;N;;;fracture;N;65;60;N;;F1;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+102;;;N;;;fracture;N;40;80;S;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+103;;;N;;;fracture;N;40;50;S;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+104;;;N;;;fracture;N;60;50;S;;F1;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+105;;;N;;;fracture;N;170;85;E;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+106;;;N;;;fracture;N;80;80;S;;F7;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+107;;;N;;;fracture;N;160;80;W;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Main
+108;;;N;;;fracture;N;160;80;W;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Upper
+109;;;N;;;fracture;N;40;80;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Upper
+110;;;N;;;fracture;N;140;80;W;;F2;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Upper
+111;;;N;;;fracture;N;80;70;S;;F7;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Upper
+112;;;N;;;fracture;N;150;70;NE;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Boquillas;nan;Upper
+113;0;1;N;120;85;fracture;N;94;70;S;;F4;1;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+114;0;1;N;120;85;fracture;N;12;78;E;;F3;3;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+115;0;1;N;120;85;fracture;N;40;55;E;;F3;4;;0;0;0;0;1.5;1.5;1.5;1.49;1.49;1.49;0.13;0.13;0.13;Skarn;;Eldorado;ELD1;ELD Main
+116;1;2;N;120;85;fracture;N;40;70;E;;F3;2;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+117;1;2;N;120;85;fracture;N;130;82;N;;F2;2;;0;0;0;0;>10;10;25;9.96;17.43;24.9;0.87;1.53;2.18;Skarn;;Eldorado;ELD1;ELD Main
+118;1;2;N;120;85;fracture;N;154;72;W;;F5;2;;0;0;0;0;5;5;5;4.98;4.98;4.98;0.44;0.44;0.44;Skarn;;Eldorado;ELD1;ELD Main
+119;2;3;N;120;85;fracture;N;30;80;W;;F3;4;;0;0;0;0;>10;10;25;9.96;17.43;24.9;0.87;1.53;2.18;Skarn;;Eldorado;ELD1;ELD Main
+120;2;3;N;120;85;fracture;N;52;50;NW;;F1;5;;0;0;0;0;2;2;2;1.99;1.99;1.99;0.17;0.17;0.17;Skarn;;Eldorado;ELD1;ELD Main
+121;2;3;N;120;85;fracture;N;140;40;N;;F2;3;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+122;3;4;N;105;85;fracture;N;30;80;W;;F3;4;;0;0;0;0;>10;10;25;9.96;17.43;24.9;0.87;1.53;2.18;Skarn;;Eldorado;ELD1;ELD Main
+123;3;4;N;105;85;fracture;N;52;50;NW;;F1;5;;0;0;0;0;2;2;2;1.99;1.99;1.99;0.17;0.17;0.17;Skarn;;Eldorado;ELD1;ELD Main
+124;3;4;N;105;85;fracture;N;140;40;N;;F2;3;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+125;4;5;N;95;85;fracture;N;48;40;N;;F1;4;;0;0;0;0;3;3;3;2.99;2.99;2.99;0.26;0.26;0.26;Skarn;;Eldorado;ELD1;ELD Main
+126;4;5;N;95;85;fracture;N;120;84;S;;F2;3;Qtz surface;0;0;0;0;>10;10;25;9.96;17.43;24.9;0.87;1.53;2.18;Skarn;;Eldorado;ELD1;ELD Main
+127;4;5;N;95;85;fracture;N;68;75;SE;;F1;1;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+128;4;5;N;95;85;fracture;N;60;85;SE;;F1;1;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+129;5;6;N;115;85;fracture;N;130;85;N;;F2;2;;0;0;0;0;[5-10];5;10;4.98;7.47;9.96;0.44;0.65;0.87;Skarn;;Eldorado;ELD1;ELD Main
+130;5;6;N;115;85;fracture;N;60;65;NW;;F1;3;;0;0;0;0;5;5;5;4.98;4.98;4.98;0.44;0.44;0.44;Skarn;;Eldorado;ELD1;ELD Main
+131;5;6;N;115;85;fracture;N;138;58;N;;F2;2;;0;0;0;0;[0.5-1];0.5;1;0.5;0.75;1;0.04;0.07;0.09;Skarn;;Eldorado;ELD1;ELD Main
+132;6;7;N;120;85;fracture;N;60;50;NW;;F1;2;;0;0;0;0;[3-4];3;4;2.99;3.49;3.98;0.26;0.31;0.35;Skarn;;Eldorado;ELD1;ELD Main
+133;6;7;N;120;85;fracture;N;102;75;N;;F4;3;;0;0;0;0;2;2;2;1.99;1.99;1.99;0.17;0.17;0.17;Skarn;;Eldorado;ELD1;ELD Main
+134;6;7;N;120;85;fracture;N;20;80;W;;F3;1;;0;0;0;0;1;1;1;1;1;1;0.09;0.09;0.09;Skarn;;Eldorado;ELD1;ELD Main
+135;0;1;N;85;87;fracture;N;10;55;E;;F3;3;;0;0;0;0;[2-5];2;5;2;3.5;4.99;0.1;0.18;0.26;Skarn;;Eldorado;ELD2;ELD Down
+136;0;1;N;85;87;fracture;N;90;50;N;;F4;4;;0;0;0;0;[5-10];5;10;4.99;7.49;9.99;0.26;0.39;0.52;Skarn;;Eldorado;ELD2;ELD Down
+137;0;1;N;85;87;fracture;N;120;80;N;;F2;2;;0;0;0;0;10;10;10;9.99;9.99;9.99;0.52;0.52;0.52;Skarn;;Eldorado;ELD2;ELD Down
+138;1;2;N;85;87;fracture;N;165;40;NE;;F5;1;;0;0;0;0;2;2;2;2;2;2;0.1;0.1;0.1;Skarn;;Eldorado;ELD2;ELD Down
+139;1;2;N;85;87;fracture;N;82;62;N;;F7;5;;0;0;0;0;[5-10];5;10;4.99;7.49;9.99;0.26;0.39;0.52;Skarn;;Eldorado;ELD2;ELD Down
+140;2;3;N;85;87;fracture;N;55;60;NW;;F1;3;;0;0;0;0;[4-5];4;5;3.99;4.49;4.99;0.21;0.24;0.26;Skarn;;Eldorado;ELD2;ELD Down
+141;2;3;N;85;87;fracture;N;18;40;SE;;F3;2;;0;0;0;0;[5-10];5;10;4.99;7.49;9.99;0.26;0.39;0.52;Skarn;;Eldorado;ELD2;ELD Down
+142;2;3;N;85;87;fracture;N;135;85;NE;;F2;1;;0;0;0;0;1;1;1;1;1;1;0.05;0.05;0.05;Skarn;;Eldorado;ELD2;ELD Down
+143;2;3;N;85;87;fracture;N;2;58;E;;F5;1;;0;0;0;0;0.5;0.5;0.5;0.5;0.5;0.5;0.03;0.03;0.03;Skarn;;Eldorado;ELD2;ELD Down
+144;0;0;N;0;0;fracture;N;30;80;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+145;0;0;N;0;0;fracture;N;20;80;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+146;0;0;N;0;0;fracture;N;105;80;N;;F4;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+147;0;0;N;0;0;fracture;N;40;80;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+148;0;0;N;0;0;fracture;N;30;50;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+149;0;0;N;0;0;fracture;N;160;65;E;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+150;0;0;N;0;0;fracture;N;60;80;N;;F1;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+151;0;0;N;0;0;fracture;N;145;75;E;;F2;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+152;0;0;N;0;0;fracture;N;120;80;N;;F2;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD Main
+153;0;0;N;0;0;fracture;N;160;40;SE;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD River Cliff
+154;0;0;N;0;0;fracture;N;20;50;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD River Cliff
+155;0;0;N;0;0;fracture;N;160;70;SE;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD River Cliff
+156;0;0;N;0;0;fracture;N;180;70;E;;F5;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD River Cliff
+157;0;0;N;0;0;fracture;N;30;65;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELD River Cliff
+158;0;0;N;0;0;fracture;N;35;70;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+159;0;0;N;0;0;fracture;N;40;70;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+160;0;0;N;0;0;fracture;N;35;25;SE;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+161;0;0;N;0;0;fracture;N;40;30;SE;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+162;0;0;N;0;0;fracture;N;35;50;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+163;0;0;N;0;0;fracture;N;20;50;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+164;0;0;N;0;0;fracture;N;30;80;N;;F3;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+165;0;0;N;0;0;fracture;N;120;85;N;;F2;1;;;0;0;0;;;;0;0;0;0;0;0;Skarn;BatL Interpretation;Eldorado;nan;ELDInCave
+166;0;2.95;N;25;90;fracture;N;0;10;W;;F5;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+167;0;2.95;N;25;90;fracture;N;175;10;W;;F5;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+168;0;2.95;N;25;90;fracture;N;140;10;SW;;F2;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+169;0;2.95;N;25;90;fracture;N;140;50;SW;;F2;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+170;0;2.95;N;25;90;fracture;N;198;88;E;*;;1;open;;0.05;0.1;0.15;;1.5;5;1.5;3.25;5;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+171;0;2.95;N;25;90;fracture;N;198;88;E;*;;1;open;;0.05;0.1;0.15;;1.5;5;1.5;3.25;5;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+172;0;2.95;N;25;90;fracture;N;198;88;E;*;;1;open;;0.05;0.1;0.15;;1.5;5;1.5;3.25;5;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+173;0;2.95;N;25;90;fracture;N;280;15;N;;F6;1;open;;0.05;0.1;0.15;;5;15;5;10;15;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+174;2.95;5.5;N;20;90;fracture;N;140;10;W;;F2;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+175;2.95;5.5;N;20;90;fracture;N;140;12;W;;F2;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+176;2.95;5.5;N;20;90;fracture;N;140;9;W;;F2;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+177;2.95;5.5;N;20;90;fracture;N;140;50;SW;;F2;1;open;;0.05;0.1;0.15;;0.3;1;0.3;0.65;1;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+178;2.95;5.5;N;20;90;fracture;N;142;51;SW;;F2;1;open;;0.05;0.1;0.15;;0.3;1;0.3;0.65;1;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+179;2.95;5.5;N;20;90;fracture;N;95;60;N;;F4;1;open;;0.05;0.1;0.15;;0.45;2;0.45;1.23;2;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+180;2.95;5.5;N;20;90;fracture;N;97;61;N;;F4;1;open;;0.05;0.1;0.15;;0.45;2;0.45;1.23;2;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+181;2.95;5.5;N;20;90;fracture;N;95;60;N;;F4;1;open;;0.05;0.1;0.15;;0.45;2;0.45;1.23;2;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+182;2.95;5.5;N;20;90;fracture;N;94;59;N;;F4;1;open;;0.05;0.1;0.15;;0.45;2;0.45;1.23;2;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+183;2.95;5.5;N;20;90;fracture;N;280;15;N;;F6;1;open;;0.05;0.1;0.15;;5;15;5;10;15;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+184;2.95;5.5;N;20;90;fracture;N;198;88;E;*;;1;open;;0.05;0.1;0.15;;1.5;5;1.5;3.25;5;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+185;2.95;5.5;N;20;90;fracture;N;198;88;E;*;;1;open;;0.05;0.1;0.15;;1.5;5;1.5;3.25;5;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+186;5.5;8.7;N;120;90;fracture;N;20;60;E;;F3;1;open;;0.05;0.1;0.15;;2;10;2;6;10;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+187;5.5;8.7;N;120;90;fracture;N;15;60;E;;F3;1;open;;0.05;0.1;0.15;;2;10;2;6;10;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+188;5.5;8.7;N;120;90;fracture;N;280;15;N;;F6;1;open;;0.05;0.1;0.15;;5;15;5;10;15;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+189;8.7;14.3;N;35;90;fracture;N;150;60;E;;F5;1;open;;0.05;0.1;0.15;;5;15;5;10;15;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+190;8.7;14.3;N;35;90;fracture;N;152;60;E;;F5;1;open;;0.05;0.1;0.15;;5;15;5;10;15;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+191;8.7;14.3;N;35;90;fracture;N;149;50;E;;F5;1;open;;0.05;0.1;0.15;;5;15;5;10;15;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+192;8.7;14.3;N;35;90;fracture;N;270;20;N;;F6;1;open;;0.05;0.1;0.15;;1;10;1;5.5;10;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+193;8.7;14.3;N;35;90;fracture;N;150;60;SW;;F5;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+194;8.7;14.3;N;35;90;fracture;N;145;70;NE;;F2;1;open;;0.05;0.1;0.15;;2;4;2;3;4;0;0;0;Marble;;Pueblo Nuevo;PNO;PNO_MainWall
+195;0;0;N;30;90;fracture;N;95;60;N;;F4;1;open;;0.05;0.1;0.15;;1;2;1;1.5;2;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+196;0;0;N;30;90;fracture;N;140;10;W;;F2;1;open;;0.05;0.1;0.15;;1;2;1;1.5;2;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+197;0;0;N;30;90;fracture;N;280;15;N;;F6;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+198;0;0;N;30;90;fracture;N;0;10;W;;F5;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+199;0;0;N;30;90;fracture;N;175;10;W;;F5;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+200;0;0;N;30;90;fracture;N;20;60;E;;F3;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+201;0;0;N;30;90;fracture;N;15;60;E;;F3;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+202;0;0;N;30;90;fracture;N;150;60;E;;F5;1;open;;0.05;0.1;0.15;;1;3;1;2;3;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+203;0;0;N;30;90;fracture;N;270;20;N;;F6;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+204;0;0;N;30;90;fracture;N;150;60;SW;;F5;1;open;;0.05;0.1;0.15;;1;3;1;2;3;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+205;0;0;N;30;90;fracture;N;140;60;SW;;F2;1;open;;0.05;0.1;0.15;;1;3;1;2;3;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_MainWall
+206;0;0;N;105;0;fracture;N;130;18;NW;;F2;1;open;;0.05;0.1;0.15;;5;10;0;0;0;5;7.5;10;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_UpperWall+Pavement
+207;0;0;N;105;0;fracture;N;40;60;NW;;F3;1;open;;0.05;0.1;0.15;;4;10;0;0;0;4;7;10;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_UpperWall+Pavement
+208;0;0;N;105;0;fracture;N;150;70;W;;F5;1;open;;0.05;0.1;0.15;;1;3;0;0;0;1;2;3;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_UpperWall+Pavement
+209;0;0;N;105;0;fracture;N;110;80;S;;F4;1;open;;0.05;0.1;0.15;;5;10;0;0;0;5;7.5;10;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_UpperWall+Pavement
+210;0;0;N;105;0;fracture;N;110;75;SW;;F4;1;open;;0.05;0.1;0.15;;5;10;0;0;0;5;7.5;10;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_UpperWall+Pavement
+211;0;0;N;22;90;fracture;N;20;70;NW;;F3;1;open;;0.05;0.1;0.15;;0.5;2;0.5;1.25;2;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_HyperSpWall_(Corner)
+212;0;0;N;22;90;fracture;N;125;80;S;;F2;1;open;;0.05;0.1;0.15;;2;5;2;3.5;5;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_HyperSpWall_(Corner)
+213;0;0;N;22;90;fracture;N;130;40;SW;;F2;1;Stylotite;;0.05;0.1;0.15;;0.5;2;0.5;1.25;2;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_HyperSpWall_(Corner)
+214;0;0;N;22;90;fracture;N;40;85;NW;;F3;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_HyperSpWall_(Corner)
+215;0;0;N;22;90;fracture;N;60;30;E;;F1;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Pueblo Nuevo;nan;PNO_HyperSpWall_(Corner)
+216;0;5;N;285;90;Dyke;N;40;75;SE;;F3;1;open;;0.05;0.1;0.15;;8;8;8;8;8;0;0;0;Marble;;Tatatila;TAT;Dyke
+217;0;5;N;285;90;fracture;N;110;15;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+218;0;5;N;285;90;fracture;N;110;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+219;0;5;N;285;90;fracture;N;110;25;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+220;0;5;N;285;90;fracture;N;95;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+221;5;6;N;285;90;fracture;N;35;80;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+222;6;8;N;285;90;fracture;N;35;80;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+223;6;8;N;285;90;fracture;N;110;15;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+224;6;8;N;285;90;fracture;N;110;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+225;6;8;N;285;90;fracture;N;110;25;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+226;6;8;N;285;90;fracture;N;95;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+227;8;10;N;285;90;fracture;N;35;80;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+228;10;17;N;285;90;fracture;N;35;80;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+229;10;17;N;285;90;fracture;N;110;15;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+230;10;17;N;285;90;fracture;N;110;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+231;10;17;N;285;90;fracture;N;110;25;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+232;10;17;N;285;90;fracture;N;95;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+233;17;19;N;285;90;fracture;N;20;70;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+234;19;23;N;285;90;fracture;N;20;70;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+235;19;23;N;285;90;fracture;N;110;15;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+236;19;23;N;285;90;fracture;N;110;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+237;19;23;N;285;90;fracture;N;110;25;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+238;19;23;N;285;90;fracture;N;95;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+239;23;24;N;285;90;fracture;N;20;70;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+240;24;25;N;285;90;fracture;N;70;75;N;;F1;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+241;25;28;N;285;90;fracture;N;10;70;E;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+242;25;28;N;285;90;fracture;N;170;50;E;;F5;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+243;25;28;N;285;90;fracture;N;110;15;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+244;25;28;N;285;90;fracture;N;110;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+245;25;28;N;285;90;fracture;N;110;25;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+246;25;28;N;285;90;fracture;N;95;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;TAT;Main
+247;28;29;N;285;90;fracture;N;35;70;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+248;29;30;N;285;90;fracture;N;35;70;SE;;F3;1;open;;0.05;0.1;0.15;;13;13;13;13;13;0;0;0;Marble;;Tatatila;TAT;fracture
+249;0;0;N;0;90;Dyke;N;40;75;SE;;F3;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+250;0;0;N;0;90;Dyke;N;60;70;SE;;F1;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+251;0;0;N;0;90;fracture;N;110;15;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+252;0;0;N;0;90;fracture;N;110;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+253;0;0;N;0;90;fracture;N;110;25;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+254;0;0;N;0;90;fracture;N;95;20;N;;F6;1;Main fluid flow;;0.1;0.55;1;;10;30;10;20;30;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+255;0;0;N;0;90;fracture;N;35;80;SE;;F3;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+256;0;0;N;0;90;fracture;N;35;80;SE;;F3;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+257;0;0;N;0;90;fracture;N;20;70;SE;;F3;1;open;;0.05;0.1;0.15;;1;2;1;1.5;2;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+258;0;0;N;0;90;fracture;N;70;75;N;;F1;1;open;;0.05;0.1;0.15;;1;2;1;1.5;2;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+259;0;0;N;0;90;fracture;N;10;70;E;;F3;1;open;;0.05;0.1;0.15;;1;2;1;1.5;2;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+260;0;0;N;0;90;fracture;N;170;50;E;;F5;1;open;;0.05;0.1;0.15;;2;5;2;3.5;5;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+261;0;0;N;0;90;fracture;N;35;70;SE;;F3;1;open;;0.05;0.1;0.15;;5;10;5;7.5;10;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Main
+262;0;0;N;0;90;Fault;N;70;80;NW;;F1;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+263;0;0;N;0;90;Fault;N;75;80;NW;;F1;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+264;0;0;N;0;90;Fault;N;70;60;NW;;F1;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+265;0;0;N;0;90;Fault;N;20;80;W;;F3;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+266;0;0;N;0;90;Fault;N;5;80;W;;F5;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+267;0;0;N;0;90;Fault;N;120;60;NW;;F2;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+268;0;0;N;0;90;Fault;N;90;80;S;;F4;1;;;0.05;0.1;0.15;;;;0;0;0;0;0;0;Marble;BatL Interpretation;Tatatila;nan;Big Dyke
+269;0;0;N;0;90;fracture;N;150;20;E;;F5;1;Stylolite / open;;0.05;0.1;0.15;;10;20;10;15;20;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+270;0;0;N;0;90;fracture;N;145;20;E;;F2;1;Stylolite / open;;0.05;0.1;0.15;;10;20;10;15;20;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+271;0;0;N;0;90;fracture;N;140;62;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+272;0;0;N;0;90;fracture;N;140;68;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+273;0;0;N;0;90;fracture;N;140;30;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+274;0;0;N;0;90;fracture;N;140;40;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+275;0;0;N;0;90;fracture;N;140;50;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+276;0;0;N;0;90;fracture;N;140;60;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+277;0;0;N;0;90;fracture;N;140;70;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+278;0;0;N;0;90;fracture;N;140;80;W;;F2;1;open;;0.05;0.1;0.15;;2;3;2;2.5;3;0;0;0;Marble;BatL Interpretation;Tatatila;nan;SmallQ
+279;0;4;N;18;70;Fracture;N;85;62;N;;F7;18;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+280;0;4;N;18;70;Fracture;N;170;40;W;;F5;10;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+281;0;4;N;18;70;Fracture;N;160;20;W;;F5;10;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+282;0;4;N;18;70;Fracture;N;60;30;SE;;F1;4;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;BatL Interpretation;Rinconada;RIN;Rinco-FG-Scanline
+283;4;11;N;18;70;Fracture;N;130;85;SW;;F2;10;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+284;4;11;N;18;70;Fracture;N;120;86;SW;;F2;10;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+285;4;11;N;18;70;Fracture;N;140;84;SW;;F2;11;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+286;4;11;N;18;70;Fracture;N;70;90;N;;F1;17;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+287;4;11;N;18;70;Fracture;N;68;87;S;;F1;18;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+288;4;11;N;18;70;Fracture;N;72;87;N;;F1;17;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+289;4;11;N;18;70;Fracture;N;100;85;S;;F4;30;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+290;4;11;N;18;70;Fracture;N;110;85;S;;F4;30;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;;Rinconada;RIN;Rinco-FG-Scanline
+291;4;11;N;18;70;Fracture;N;60;30;SE;;F1;5;;;0.05;0.1;0.15;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;BatL Interpretation;Rinconada;RIN;Rinco-FG-Scanline
+292;0;0;N;90;75;Fracture;N;160;50;W;;F5;10;;;0;0;0;;2;10;1.93;5.8;9.66;0.52;1.55;2.59;Limestone;BatL Interpretation;Rinconada;nan;MAIN
+293;0;0;N;90;75;Fracture;N;115;50;N;;F4;10;;;0;0;0;;2;10;1.93;5.8;9.66;0.52;1.55;2.59;Limestone;BatL Interpretation;Rinconada;nan;MAIN
+294;0;0;N;90;75;Fracture;N;150;70;W;;F5;10;;;0;0;0;;2;10;1.93;5.8;9.66;0.52;1.55;2.59;Limestone;BatL Interpretation;Rinconada;nan;MAIN
+295;0;0;N;90;75;Fracture;N;70;60;NW;;F1;10;;;0;0;0;;2;10;1.93;5.8;9.66;0.52;1.55;2.59;Limestone;BatL Interpretation;Rinconada;nan;MAIN
+296;0;0;N;90;75;Fracture;N;70;60;SE;;F1;10;;;0;0;0;;2;10;1.93;5.8;9.66;0.52;1.55;2.59;Limestone;BatL Interpretation;Rinconada;nan;MAIN
+297;0;0;N;18;70;Fracture;N;80;70;N;;F7;1;;;0;0;0;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;BatL Interpretation;Rinconada;nan;SL
+298;0;0;N;18;70;Fracture;N;160;20;W;;F5;1;;;0;0;0;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;BatL Interpretation;Rinconada;nan;SL
+299;0;0;N;18;70;Fracture;N;60;30;SE;;F1;1;;;0;0;0;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;BatL Interpretation;Rinconada;nan;SL
+300;0;0;N;20;70;Fracture;N;130;85;W;;F2;1;;;0;0;0;;1;5;0.94;2.82;4.7;0.34;1.03;1.71;Limestone;BatL Interpretation;Rinconada;nan;SL Extendenorthwards
+301;0;2;N;60;55;Karst;N;220;35;N;;F3;1;Boulders;;0;0;0;1;1;1;0.82;0.82;0.82;0.57;0.57;0.57;Limestone;;San Antonio T.;SAT;
+302;2;3;N;60;55;Fracture I;N;310;85;E;;F2;3;Calcite;;0;0;0;0.4;0.4;0.4;0.33;0.33;0.33;0.23;0.23;0.23;Limestone;;San Antonio T.;SAT;
+303;2;3;N;60;55;Fracture II;N;205;80;W;;F3;2;Oxydation;PO;0.05;0.08;0.1;1;1;1;0.82;0.82;0.82;0.57;0.57;0.57;Limestone;;San Antonio T.;SAT;
+304;2;3;N;60;55;Fracture IV;N;90;70;S;;F4;1;;< mm - open;0.05;0.08;0.1;1;1;1;0.82;0.82;0.82;0.57;0.57;0.57;Limestone;;San Antonio T.;SAT;
+305;2;3;N;60;55;Fracture I;N;310;80;E;;F2;1;Calcite;;0;0;0;0.4;0.4;0.4;0.33;0.33;0.33;0.23;0.23;0.23;Limestone;;San Antonio T.;SAT;
+306;3;4;N;60;55;Fracture IV;N;90;70;S;;F4;1;;;0;0;0;1;1;1;0.82;0.82;0.82;0.57;0.57;0.57;Limestone;;San Antonio T.;SAT;
+307;3;4;N;60;55;Fracture I;N;310;80;E;;F2;1;Calcite;;0;0;0;0.4;0.4;0.4;0.33;0.33;0.33;0.23;0.23;0.23;Limestone;;San Antonio T.;SAT;
+308;4;7;N;60;55;Karst;N;210;75;N;;F3;1;Conglomerate;;0;0;0;0;0;0;0;0;0;0;0;0;Limestone;;San Antonio T.;SAT;
+309;4;7;N;60;55;Fracture II;N;210;75;N;;F3;2;Calcite;;0;0;0;1;1;1;0.82;0.82;0.82;0.57;0.57;0.57;Limestone;;San Antonio T.;SAT;
+310;7;8;N;40;55;Fracture V;N;20;80;E;;F3;2;Karst filling;;0;0;0;10;10;10;8.19;8.19;8.19;5.74;5.74;5.74;Limestone;;San Antonio T.;SAT;
+311;7;8;N;40;55;Fracture I;N;295;60;E;;F4;4;Calcite;;0;0;0;0.4;0.4;0.4;0.33;0.33;0.33;0.23;0.23;0.23;Limestone;;San Antonio T.;SAT;
+312;9;10;N;40;55;Fracture V ;N;30;80;W;;F3;2;Karst filling;;0;0;0;10;10;10;8.19;8.19;8.19;5.74;5.74;5.74;Limestone;;San Antonio T.;SAT;
+313;9;10;N;40;55;Fracture;N;290;80;SE;;F4;3;Calcite;;0;0;0;0.5;0.5;0.5;0.41;0.41;0.41;0.29;0.29;0.29;Limestone;;San Antonio T.;SAT;
+314;10;11;N;40;50;Karst;N;85;85;S;;F7;1;Karst filling;0.3;0.3;0.3;0.3;1;1;1;0.77;0.77;0.77;0.64;0.64;0.64;Limestone;;San Antonio T.;SAT;
+315;10;11;N;40;50;Fracture;N;320;45;E;;F2;4;Calcite;PO;0.05;0.08;0.1;[0.4 - 2];0.4;2;0.31;0.92;1.53;0.26;0.77;1.29;Limestone;;San Antonio T.;SAT;
+316;12;13;N;40;50;Fracture;N;105;82;S;;F4;2;Brown Yellowish Calcite;;0;0;0;5;5;5;3.83;3.83;3.83;3.21;3.21;3.21;Limestone;;San Antonio T.;SAT;
+317;12;13;N;40;50;Fracture;N;312;50;SE;;F2;1;;;0;0;0;0.2;0.2;0.2;0.15;0.15;0.15;0.13;0.13;0.13;Limestone;;San Antonio T.;SAT;
+318;13;14;N;40;50;Fracture;N;85;80;S;;F7;2;Brown Calcite;;0;0;0;5;5;5;3.83;3.83;3.83;3.21;3.21;3.21;Limestone;;San Antonio T.;SAT;
+319;13;14;N;40;50;Fracture;N;206;70;SW;;F3;4;;;0;0;0;1;1;1;0.77;0.77;0.77;0.64;0.64;0.64;Limestone;;San Antonio T.;SAT;
+320;13;14;N;40;50;Fault;N;30;80;W;/20E;F3;1;Calcite striations;;0;0;0;1;1;1;0.77;0.77;0.77;0.64;0.64;0.64;Limestone;;San Antonio T.;SAT;
+321;13;14;N;40;50;Fault;N;60;80;S;/15E;F1;2;Calcite striations;;0;0;0;>10;10;25;7.66;13.41;19.15;6.43;11.25;16.07;Limestone;;San Antonio T.;SAT;
+322;14;15;N;30;50;Fracture;N;205;70;SW;;F3;6;Brown Calcite;1cm;1;1;1;>10;10;25;7.66;13.41;19.15;6.43;11.25;16.07;Limestone;;San Antonio T.;SAT;
+323;14;15;N;30;50;Fracture;N;82;78;S;;F7;4;Brown Calcite;< mm to 1cm;0.05;0.53;1;[2-3];2;3;1.53;1.92;2.3;1.29;1.61;1.93;Limestone;;San Antonio T.;SAT;
+324;15;16;N;30;50;Fracture;N;80;80;S;;F7;6;Brown Calcite + Breccia;;0;0;0;10;10;10;7.66;7.66;7.66;6.43;6.43;6.43;Limestone;;San Antonio T.;SAT;
+325;15;16;N;30;50;Fracture;N;64;86;N;;F1;5;Karst filling;;0;0;0;0.5;0.5;0.5;0.38;0.38;0.38;0.32;0.32;0.32;Limestone;;San Antonio T.;SAT;
+326;18;19;N;30;50;Fracture;N;320;85;S;;F2;4;Brown Calcite;< mm;0.05;0.05;0.05;0.5;0.5;0.5;0.38;0.38;0.38;0.32;0.32;0.32;Limestone;;San Antonio T.;SAT;
+327;18;19;N;30;50;Fracture;N;64;86;NE;;F1;5;Brown Calcite;0 - mm;0;0.03;0.05;< 10;1;10;0.77;4.21;7.66;0.64;3.54;6.43;Limestone;;San Antonio T.;SAT;
+328;19;20;N;20;50;Fracture;N;2;80;E;;F5;3;White Calcite;0 - mm;0;0.03;0.05;5;5;5;3.83;3.83;3.83;3.21;3.21;3.21;Limestone;;San Antonio T.;SAT;
+329;19;20;N;20;50;Fracture;N;320;48;NE;;F2;8;White Calcite;0.5 - PO;0.05;0.28;0.5;[1-10];1;10;0.77;4.21;7.66;0.64;3.54;6.43;Limestone;;San Antonio T.;SAT;
+330;20;21;N;20;60;Fracture;N;355;78;E;;F5;4;"Brown Calcite; Harshy";< mm;0.05;0.05;0.05;1;1;1;0.87;0.87;0.87;0.5;0.5;0.5;Limestone;;San Antonio T.;SAT;
+331;20;21;N;20;60;Fracture;N;160;75;W;;F5;1;Brown Calcite;Open - 1mm;0.1;0.1;0.1;0.4;0.4;0.4;0.35;0.35;0.35;0.2;0.2;0.2;Limestone;;San Antonio T.;SAT;
+332;20;21;N;20;60;Fracture;N;285;48;N;;F4;1;;;0;0;0;2;2;2;1.73;1.73;1.73;1;1;1;Limestone;;San Antonio T.;SAT;
+333;21;22;N;20;60;Fracture;N;315;60;E;;F2;5;White Calcite;PO - 1mm;0.05;0.08;0.1;2;2;2;1.73;1.73;1.73;1;1;1;Limestone;;San Antonio T.;SAT;
+334;21;22;N;20;60;Fracture;N;210;68;W;;F3;8;Brown Wite Calcite;PO;0.05;0.08;0.1;0.2;0.2;0.2;0.17;0.17;0.17;0.1;0.1;0.1;Limestone;;San Antonio T.;SAT;
+335;22;23;N;20;60;Fracture;N;320;55;NE;;F2;6;White Calcite;<5mm PO;0.05;0.28;0.5;>10;10;25;8.66;15.16;21.65;5;8.75;12.5;Limestone;;San Antonio T.;SAT;
+336;23;24;N;20;60;Fault;N;330;40;NE;/15S;F5;5;White Calcite;[0.4 - 0.5]cm;0.4;0.45;0.5;>10;10;25;8.66;15.16;21.65;5;8.75;12.5;Limestone;;San Antonio T.;SAT;
+337;23;24;N;20;60;Fracture;N;20;88;E;;F3;1;Brown Calcite;;0;0;0;0.4;0.4;0.4;0.35;0.35;0.35;0.2;0.2;0.2;Limestone;;San Antonio T.;SAT;
+338;23;24;N;20;60;Fracture;N;40;85;NE;;F3;1;Brown Calcite;;0;0;0;0.5;0.5;0.5;0.43;0.43;0.43;0.25;0.25;0.25;Limestone;;San Antonio T.;SAT;
+339;24;25;N;20;60;Fracture;N;80;85;S;;F7;1;Brown Calcite;< mm;0.05;0.05;0.05;[3 - 20];3;20;2.6;9.96;17.32;1.5;5.75;10;Limestone;;San Antonio T.;SAT;
+340;24;25;N;20;60;Fault;N;358;30;E;/25E;F5;1;White Calcite - Patchy;;0;0;0;> 10;10;25;8.66;15.16;21.65;5;8.75;12.5;Limestone;;San Antonio T.;SAT;
+341;25;26;N;60;60;Fracture;N;10;52;E;;F3;2;;0 - PO;0;0.05;0.1;0.5;0.5;0.5;0.43;0.43;0.43;0.25;0.25;0.25;Limestone;;San Antonio T.;SAT;
+342;25;26;N;60;60;Fracture;N;320;45;NE;;F2;3;White Calcite;;0;0;0;[2 - 4];2;4;1.73;2.6;3.46;1;1.5;2;Limestone;;San Antonio T.;SAT;
+343;25;26;N;60;60;Fault;N;58;88;SE;;F1;7;Brown Calcite;<mm - PO;0.05;0.08;0.1;50;50;50;43.3;43.3;43.3;25;25;25;Limestone;;San Antonio T.;SAT;
+344;26;27;N;60;60;Fracture;N;320;65;N;;F2;1;;;0;0;0;0;1;5;0.87;2.6;4.33;0.5;1.5;2.5;Limestone;No data;San Antonio T.;SAT;
+345;26;27;N;60;60;Fracture;N;48;85;S;;F1;7;very little;;0;0;0;50;50;50;43.3;43.3;43.3;25;25;25;Limestone;;San Antonio T.;SAT;
+346;27;28;N;60;60;Fracture;N;40;88;NE;;F3;3;very little;;0;0;0;50;50;50;43.3;43.3;43.3;25;25;25;Limestone;;San Antonio T.;SAT;
+347;27;28;N;60;60;Fracture;N;32;40;NE;;F3;4;White Calcite;0.5 - PO;0.05;0.08;0.1;< 10;1;10;0.87;4.76;8.66;0.5;2.75;5;Limestone;;San Antonio T.;SAT;
+348;28;29;N;60;60;Fracture;N;55;58;SE;;F1;4;No to Brown Calcite;;0;0;0;[5 - 50];5;50;4.33;23.82;43.3;2.5;13.75;25;Limestone;;San Antonio T.;SAT;
+349;29;30;N;60;60;Fracture;N;220;75;W;;F3;3;No to Brown Calcite;no to little;0;0.03;0.05;50;50;50;43.3;43.3;43.3;25;25;25;Limestone;;San Antonio T.;SAT;
+350;29;30;N;60;60;Fracture;N;220;75;W;;F3;50;No to Brown Calcite;no to little;0;0.03;0.05;50;50;50;43.3;43.3;43.3;25;25;25;Limestone;;San Antonio T.;SAT;
+351;29;30;N;60;60;Fracture;N;310;60;N;;F2;4;White Calcite;PO;0.05;0.08;0.1;10;10;10;8.66;8.66;8.66;5;5;5;Limestone;;San Antonio T.;SAT;
+352;30;31;N;60;56;Fracture;N;44;85;E;;F1;10;;;0;0;0;10;10;10;8.29;8.29;8.29;5.59;5.59;5.59;Limestone;;San Antonio T.;SAT;
+353;30;31;N;60;56;Fracture;N;88;82;S;;F7;2;;;0;0;0;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+354;31;32;N;60;56;Fracture;N;325;46;N;;F2;3;;;0;0;0;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+355;32;33;N;60;56;Joint;N;3;88;;;F5;1;;joint;0;0;0;0.4;0.4;0.4;0.33;0.33;0.33;0.22;0.22;0.22;Limestone;;San Antonio T.;SAT;
+356;32;33;N;60;56;Fracture;N;220;68;W;;F3;5;;;0;0;0;50;50;50;41.45;41.45;41.45;27.96;27.96;27.96;Limestone;;San Antonio T.;SAT;
+357;33;34;N;80;56;Fracture;N;44;85;E;;F1;10;;;0;0;0;10;10;10;8.29;8.29;8.29;5.59;5.59;5.59;Limestone;;San Antonio T.;SAT;
+358;33;34;N;80;56;Fracture;N;88;82;S;;F7;2;;;0;0;0;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+359;34;35;N;100;56;Fracture;N;200;78;W;;F3;2;brown calcite;< mm;0.05;0.05;0.05;[1-2];1;2;0.83;1.24;1.66;0.56;0.84;1.12;Limestone;;San Antonio T.;SAT;
+360;34;35;N;100;56;Fracture;N;52;65;;;F1;3;Brown calcite patchy;< mm;0.05;0.05;0.05;[3-5];3;5;2.49;3.32;4.15;1.68;2.24;2.8;Limestone;;San Antonio T.;SAT;
+361;35;36;N;110;56;Joint;N;200;85;W;;F3;3;;joint;0;0;0;0.5;0.5;0.5;0.41;0.41;0.41;0.28;0.28;0.28;Limestone;;San Antonio T.;SAT;
+362;35;36;N;110;56;Fracture;N;60;80;S;;F1;2;;OF;0.1;0.1;0.1;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+363;35;36;N;110;56;Fault;N;160;30;W;;F5;1;Brown calcite;<mm to mm;0.05;0.08;0.1;[10-50];10;50;8.29;24.87;41.45;5.59;16.78;27.96;Limestone;;San Antonio T.;SAT;
+364;36;37;N;110;56;Fault;N;35;65;SE;;F3;1;Brown calcite;;0;0;0;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+365;36;37;N;110;56;Fault;N;40;65;SE;;F3;6;Brown calcite;;0;0;0;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+366;36;37;N;110;56;fracture;N;60;60;SE;;F1;1;;;0;0;0;[1-2];1;2;0.83;1.24;1.66;0.56;0.84;1.12;Limestone;;San Antonio T.;SAT;
+367;36;37;N;110;56;fracture;N;60;80;SE;;F1;1;;;0;0;0;[1-2];1;2;0.83;1.24;1.66;0.56;0.84;1.12;Limestone;;San Antonio T.;SAT;
+368;36;37;N;110;56;fracture;N;20;60;SE;;F3;2;;;0;0;0;[1-2];1;2;0.83;1.24;1.66;0.56;0.84;1.12;Limestone;;San Antonio T.;SAT;
+369;36;37;N;110;56;fracture;N;20;80;SE;;F3;2;;;0;0;0;[1-2];1;2;0.83;1.24;1.66;0.56;0.84;1.12;Limestone;;San Antonio T.;SAT;
+370;37;38;N;110;56;Fault;N;270;80;N;;F4;1;White Calcite;;0;0;0;[2-4];2;4;1.66;2.49;3.32;1.12;1.68;2.24;Limestone;;San Antonio T.;SAT;
+371;37;38;N;110;56;Fracture;N;280;88;;;F4;1;;;0;0;0;1;1;1;0.83;0.83;0.83;0.56;0.56;0.56;Limestone;;San Antonio T.;SAT;
+372;37;38;N;110;56;Fault;N;351;32;E;/28NE;F5;1;slikenline white calcite;mm < 3cm;0.1;1.55;3;50;50;50;41.45;41.45;41.45;27.96;27.96;27.96;Limestone;;San Antonio T.;SAT;
+373;38;39;N;110;56;Fault system;N;350;25;E;;F5;4;White Calcite;mm;0.1;0.3;0.5;[5-10];5;10;4.15;6.22;8.29;2.8;4.19;5.59;Limestone;;San Antonio T.;SAT;
+374;38;39;N;110;56;Joint;N;360;88;;;F5;4;White Calcite;<mm;0.05;0.05;0.05;0.4;0.4;0.4;0.33;0.33;0.33;0.22;0.22;0.22;Limestone;;San Antonio T.;SAT;
+375;39;40;N;105;56;joint;N;45;80;E;;F1;3;;;0;0;0;0.45;0.45;0.45;0.37;0.37;0.37;0.25;0.25;0.25;Limestone;;San Antonio T.;SAT;
+376;40;41;N;105;45;Joint;N;20;88;E;;F3;3;;;0;0;0;0.4;0.4;0.4;0.28;0.28;0.28;0.28;0.28;0.28;Limestone;;San Antonio T.;SAT;
+377;40;41;N;105;45;Joint;N;270;80;N;;F4;3;;;0;0;0;2;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+378;40;41;N;105;45;Joint;N;40;82;NW;;F3;6;;;0;0;0;50;50;50;35.36;35.36;35.36;35.36;35.36;35.36;Limestone;;San Antonio T.;SAT;
+379;40;41;N;105;45;Joint;N;60;90;NW;;F1;6;;;0;0;0;50;50;50;35.36;35.36;35.36;35.36;35.36;35.36;Limestone;;San Antonio T.;SAT;
+380;41;42;N;105;45;Joint;N;210;65;SW;;F3;1;;<mm;0.05;0.05;0.05;1;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;;San Antonio T.;SAT;
+381;41;42;N;105;45;Fracture;N;277;85;N;;F4;5;;;0;0;0;0.3;0.3;0.3;0.21;0.21;0.21;0.21;0.21;0.21;Limestone;;San Antonio T.;SAT;
+382;42;43;N;105;45;Fracture;N;38;82;E;;F3;1;;;0;0;0;20;20;20;14.14;14.14;14.14;14.14;14.14;14.14;Limestone;;San Antonio T.;SAT;
+383;42;43;N;105;45;Joint;N;325;85;;;F2;2;;;0;0;0;1;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;;San Antonio T.;SAT;
+384;43;44;N;120;45;Fracture;N;352;80;W;;F5;4;;;0;0;0;0.5;0.5;0.5;0.35;0.35;0.35;0.35;0.35;0.35;Limestone;;San Antonio T.;SAT;
+385;43;44;N;120;45;Fracture;N;60;88;;;F1;3;;;0;0;0;3;3;3;2.12;2.12;2.12;2.12;2.12;2.12;Limestone;;San Antonio T.;SAT;
+386;43;44;N;120;45;Fracture;N;180;62;W;;F5;1;White calcite;0 - <mm;0;0.03;0.05;2;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+387;43;44;N;120;45;Fracture;N;20;87;;;F3;2;;;0;0;0;>10;10;25;7.07;12.37;17.68;7.07;12.37;17.68;Limestone;;San Antonio T.;SAT;
+388;44;45;N;120;45;Fracture;N;50;75;SE;;F1;4;;;0;0;0;[2-3];2;3;1.41;1.77;2.12;1.41;1.77;2.12;Limestone;;San Antonio T.;SAT;
+389;44;45;N;120;45;Fracture;N;164;76;W;;F5;5;;;0;0;0;[2-3];2;3;1.41;1.77;2.12;1.41;1.77;2.12;Limestone;;San Antonio T.;SAT;
+390;45;46;N;120;45;Fracture;N;165;48;W;;F5;2;;;0;0;0;50;50;50;35.36;35.36;35.36;35.36;35.36;35.36;Limestone;;San Antonio T.;SAT;
+391;45;46;N;120;45;Fracture;N;15;60;E;;F3;2;;;0;0;0;[1-2];1;2;0.71;1.06;1.41;0.71;1.06;1.41;Limestone;;San Antonio T.;SAT;
+392;46;47;N;120;45;Fracture;N;340;50;E;;F5;3;White calcite;;0;0;0;3;3;3;2.12;2.12;2.12;2.12;2.12;2.12;Limestone;;San Antonio T.;SAT;
+393;47;48;N;120;45;Fracture;N;350;60;W;;F5;5;;;0;0;0;30;30;30;21.21;21.21;21.21;21.21;21.21;21.21;Limestone;;San Antonio T.;SAT;
+394;49;50;N;120;45;Fracture;N;275;85;S;;F4;3;;;0;0;0;[10-20];10;20;7.07;10.61;14.14;7.07;10.61;14.14;Limestone;;San Antonio T.;SAT;
+395;49;50;N;120;45;Fracture;N;345;65;W;;F5;3;;;0;0;0;[5-10];5;10;3.54;5.3;7.07;3.54;5.3;7.07;Limestone;;San Antonio T.;SAT;
+396;50;51;N;130;45;joint;N;72;88;S;;F1;1;;tight / PO;0;0.05;0.1;2;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+397;50;51;N;130;45;joint;N;66;88;S;;F1;1;;;0;0;0;10;10;10;7.07;7.07;7.07;7.07;7.07;7.07;Limestone;N91 linkup with N66;San Antonio T.;SAT;
+398;50;51;N;130;45;fracture;N;91;87;;;F4;1;;;0;0;0;3;3;3;2.12;2.12;2.12;2.12;2.12;2.12;Limestone;;San Antonio T.;SAT;
+399;51;53;N;130;45;joint ;N;94;85;S;;F4;10;;;0;0;0;[2-3];2;3;1.41;1.77;2.12;1.41;1.77;2.12;Limestone;;San Antonio T.;SAT;
+400;51;53;N;130;45;fracture;N;359;60;E;;F5;3;white calcite;<mm to mm / PO;0.05;0.08;0.1;3;3;3;2.12;2.12;2.12;2.12;2.12;2.12;Limestone;;San Antonio T.;SAT;
+401;52;54;N;130;45;joint;N;70;88;S;;F1;3;;;0;0;0;0.2;0.2;0.2;0.14;0.14;0.14;0.14;0.14;0.14;Limestone;;San Antonio T.;SAT;
+402;52;54;N;130;45;fault;N;345;55;E;/56NE;F5;1;Breccia;mm-1.5cm;0.1;0.8;1.5;15;15;15;10.61;10.61;10.61;10.61;10.61;10.61;Limestone;;San Antonio T.;SAT;
+403;52;54;N;130;45;fault N.;N;164;28;W;/264;F5;1;;;0;0;0;1;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;Normal fault;San Antonio T.;SAT;
+404;54;55;N;130;45;fault;N;1;20;E;/10NE;F5;1;breccia. white calcite;mm-1.5cm;0.1;0.8;1.5;[5-6];5;6;3.54;3.89;4.24;3.54;3.89;4.24;Limestone;;San Antonio T.;SAT;
+405;54;55;N;130;45;fault;N;132;36;SW;/29W;F2;2;white calcite;;0;0;0;1;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;;San Antonio T.;SAT;
+406;54;55;N;130;45;fracture;N;240;85;N;;F1;2;brown calcite;;0;0;0;[3-4];3;4;2.12;2.47;2.83;2.12;2.47;2.83;Limestone;;San Antonio T.;SAT;
+407;54;55;N;130;45;fracture;N;312;48;E;;F2;1;white calcite;;0;0;0;1;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;;San Antonio T.;SAT;
+408;55;56;N;150;45;fracture;N;195;60;W;;F3;2;;;0;0;0;3;3;3;2.12;2.12;2.12;2.12;2.12;2.12;Limestone;segmented;San Antonio T.;SAT;
+409;55;56;N;150;45;fault LA;N;20;20;E;/20E;F3;1;white calcite;<0.5cm;0.05;0.28;0.5;6;6;6;4.24;4.24;4.24;4.24;4.24;4.24;Limestone;Low Angle;San Antonio T.;SAT;
+410;55;56;N;150;45;fracture;N;130;85;SW;;F2;1;;;0;0;0;0.5;0.5;0.5;0.35;0.35;0.35;0.35;0.35;0.35;Limestone;;San Antonio T.;SAT;
+411;55;56;N;150;45;fracture;N;50;80;S;;F1;4;brown calcite;<0.5cm / PO;0.05;0.28;0.5;10;10;10;7.07;7.07;7.07;7.07;7.07;7.07;Limestone;;San Antonio T.;SAT;
+412;55;56;N;150;45;fault;N;172;28;W;/34W;F5;1;white calcite;1-2mm;0.1;0.15;0.2;[1-2];1;2;0.71;1.06;1.41;0.71;1.06;1.41;Limestone;;San Antonio T.;SAT;
+413;55;56;N;150;45;joint;N;40;88;;;F3;4;;;0;0;0;0.2;0.2;0.2;0.14;0.14;0.14;0.14;0.14;0.14;Limestone;;San Antonio T.;SAT;
+414;55;56;N;150;45;fault;N;132;80;W;/78SW;F2;3;white calcite;;0;0;0;0.5;0.5;0.5;0.35;0.35;0.35;0.35;0.35;0.35;Limestone;;San Antonio T.;SAT;
+415;56;57;N;150;45;fracture;N;60;75;SE;;F1;8;brown calcite;<mm / PO;0.05;0.08;0.1;20;20;20;14.14;14.14;14.14;14.14;14.14;14.14;Limestone;;San Antonio T.;SAT;
+416;57;58;N;150;45;fracture;N;32;80;SE;;F3;2;brown calcite;;0;0;0;10;10;10;7.07;7.07;7.07;7.07;7.07;7.07;Limestone;;San Antonio T.;SAT;
+417;57;58;N;150;45;fracture;N;330;50;NE;;F5;5;white calcite;mm;0.1;0.3;0.5;5;5;5;3.54;3.54;3.54;3.54;3.54;3.54;Limestone;;San Antonio T.;SAT;
+418;58;59;N;150;45;fracture;N;60;88;SE;;F1;7;;;0;0;0;>10;10;25;7.07;12.37;17.68;7.07;12.37;17.68;Limestone;;San Antonio T.;SAT;
+419;58;59;N;150;45;vein;N;360;40;E;;F5;3;brown calcite;[0.5-2]mm;0.05;0.13;0.2;4;4;4;2.83;2.83;2.83;2.83;2.83;2.83;Limestone;;San Antonio T.;SAT;
+420;59;60;N;150;45;Bedding?;N;182;48;W;;F5;1;;;0;0;0;5;5;5;3.54;3.54;3.54;3.54;3.54;3.54;Limestone;;San Antonio T.;SAT;
+421;59;60;N;150;45;fracture;N;25;55;E;;F3;3;;OF;0.1;0.1;0.1;>10;10;25;7.07;12.37;17.68;7.07;12.37;17.68;Limestone;;San Antonio T.;SAT;
+422;59;60;N;150;45;fracture;N;60;58;SE;;F1;3;brown calcite;;0;0;0;10;10;10;7.07;7.07;7.07;7.07;7.07;7.07;Limestone;;San Antonio T.;SAT;
+423;60;61;N;150;43;fracture;N;310;60;NE;;F2;8;white calcite;<mm;0.05;0.05;0.05;[2-3];2;3;1.36;1.7;2.05;1.46;1.83;2.19;Limestone;;San Antonio T.;SAT;
+424;60;61;N;150;43;fracture;N;54;60;S;;F1;3;;;0;0;0;0.5;0.5;0.5;0.34;0.34;0.34;0.37;0.37;0.37;Limestone;;San Antonio T.;SAT;
+425;61;62;N;150;43;fracture;N;210;82;W;;F3;5;;;0;0;0;0.5;0.5;0.5;0.34;0.34;0.34;0.37;0.37;0.37;Limestone;;San Antonio T.;SAT;
+426;61;62;N;150;43;fracture;N;240;80;SW;;F1;5;black filling & brown calcite;;0;0;0;[0.5-10];0.5;10;0.34;3.58;6.82;0.37;3.84;7.31;Limestone;;San Antonio T.;SAT;
+427;61;62;N;150;43;fracture;N;330;45;NE;;F5;6;white calcite;PO;0.05;0.08;0.1;[3-4];3;4;2.05;2.39;2.73;2.19;2.56;2.93;Limestone;;San Antonio T.;SAT;
+428;62;63;N;165;43;fracture;N;75;80;SE;;F1;5;brown calcite;<mm;0.05;0.05;0.05;10;10;10;6.82;6.82;6.82;7.31;7.31;7.31;Limestone;fracture zone;San Antonio T.;SAT;
+429;62;63;N;165;43;fault;N;177;70;W;/25S;F5;2;;;0;0;0;2;2;2;1.36;1.36;1.36;1.46;1.46;1.46;Limestone;fracture zone;San Antonio T.;SAT;
+430;63;64;N;165;43;fracture;N;300;72;NE;;F2;7;;<mm;0.05;0.05;0.05;[0.3-0.4];0.3;0.4;0.2;0.24;0.27;0.22;0.26;0.29;Limestone;fracture zone;San Antonio T.;SAT;
+431;63;64;N;165;43;fracture;N;50;70;SE;;F1;3;;<mm;0.05;0.05;0.05;[3-4];3;4;2.05;2.39;2.73;2.19;2.56;2.93;Limestone;fracture zone;San Antonio T.;SAT;
+432;65;66;N;165;43;fault;N;40;80;SE;;F3;9;brown calcite;;0;0;0;50;50;50;34.1;34.1;34.1;36.57;36.57;36.57;Limestone;;San Antonio T.;SAT;
+433;65;66;N;165;43;Bedding?;N;165;30;W;;F5;3;white calcite;;0;0;0;50;50;50;34.1;34.1;34.1;36.57;36.57;36.57;Limestone;;San Antonio T.;SAT;
+434;65;66;N;165;43;fault;N;130;81;SW;;F2;3;white calcite;<mm;0.05;0.05;0.05;[4-5];4;5;2.73;3.07;3.41;2.93;3.29;3.66;Limestone;dip slip fault;San Antonio T.;SAT;
+435;66;67;N;165;43;fracture;N;225;84;W;;F1;4;brown calcite;;0;0;0;10;10;10;6.82;6.82;6.82;7.31;7.31;7.31;Limestone;;San Antonio T.;SAT;
+436;66;67;N;165;43;vein;N;38;55;SE;;F3;6;white calcite;[1-4]mm;0.1;0.25;0.4;1;1;1;0.68;0.68;0.68;0.73;0.73;0.73;Limestone;;San Antonio T.;SAT;
+437;67;68;N;165;43;fracture;N;80;89;SE;;F7;3;brown calcite;mm;0.1;0.3;0.5;[10-40];10;40;6.82;17.05;27.28;7.31;18.28;29.25;Limestone;;San Antonio T.;SAT;
+438;67;68;N;165;43;fracture;N;60;85;SE;;F1;4;brown calcite;mm;0.1;0.3;0.5;[10-40];10;40;6.82;17.05;27.28;7.31;18.28;29.25;Limestone;;San Antonio T.;SAT;
+439;68;69;N;165;43;karst/fracture;N;82;88;S;;F7;8;dark grey calcite;<2cm;0.1;1.05;2;50;50;50;34.1;34.1;34.1;36.57;36.57;36.57;Limestone;;San Antonio T.;SAT;
+440;68;69;N;165;43;fracture;N;360;50;E;;F5;2;white calcite;<1cm;0.1;0.55;1;5;5;5;3.41;3.41;3.41;3.66;3.66;3.66;Limestone;;San Antonio T.;SAT;
+441;69;70;N;165;43;Bedding?;N;182;56;W;;F5;1;;;0;0;0;50;50;50;34.1;34.1;34.1;36.57;36.57;36.57;Limestone;worm surface;San Antonio T.;SAT;
+442;69;70;N;165;43;fault;N;305;15;/8E;;F2;2;white calcite;[1-2]mm;0.1;0.15;0.2;[2-3];2;3;1.36;1.7;2.05;1.46;1.83;2.19;Limestone;;San Antonio T.;SAT;
+443;69;70;N;165;43;joint;N;75;75;SE;;F1;6;;;0;0;0;0.2;0.2;0.2;0.14;0.14;0.14;0.15;0.15;0.15;Limestone;;San Antonio T.;SAT;
+444;70;71;N;170;53;fracture;N;70;69;SE;;F1;6;brown calcite;[1-2]mm;0.1;0.15;0.2;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;;San Antonio T.;SAT;
+445;70;71;N;170;53;Bedding?;N;140;56;SE;;F2;1;brown calcite;;0;0;0;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;;San Antonio T.;SAT;
+446;70;71;N;170;53;fracture;N;44;55;SE;;F1;5;brown calcite;<mm;0.05;0.05;0.05;0.5;0.5;0.5;0.4;0.4;0.4;0.3;0.3;0.3;Limestone;;San Antonio T.;SAT;
+447;71;72;N;170;53;fracture;N;70;85;SE;;F1;6;brown calcite;<mm;0.05;0.05;0.05;>10;10;25;7.99;13.98;19.97;6.02;10.53;15.05;Limestone;;San Antonio T.;SAT;
+448;71;72;N;170;53;Bedding?;N;190;44;W;;F3;1;brown calcite;;0;0;0;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;fold;San Antonio T.;SAT;
+449;71;72;N;170;53;Bedding?;N;154;75;W;;F5;1;brown calcite;;0;0;0;>10;10;25;7.99;13.98;19.97;6.02;10.53;15.05;Limestone;fold;San Antonio T.;SAT;
+450;72;73;N;190;53;fault R.;N;220;70;NW;/28NE;F3;2;white br. Calc.;<0.5cm;0.1;0.3;0.5;[1-2];1;2;0.8;1.2;1.6;0.6;0.9;1.2;Limestone;reverse fault?;San Antonio T.;SAT;
+451;72;73;N;190;53;fracture;N;72;85;SE;;F1;5;brown calcite;;0;0;0;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;;San Antonio T.;SAT;
+452;73;74;N;190;53;fracture;N;70;80;SE;;F1;5;brown calcite;;0;0;0;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;;San Antonio T.;SAT;
+453;73;74;N;190;53;joint;N;40;70;SE;;F3;4;;;0;0;0;[0.4-0.5];0.4;0.5;0.32;0.36;0.4;0.24;0.27;0.3;Limestone;;San Antonio T.;SAT;
+454;74;75;N;190;53;fracture;N;260;85;N;;F7;4;brown calcite;;0;0;0;>10;10;25;7.99;13.98;19.97;6.02;10.53;15.05;Limestone;;San Antonio T.;SAT;
+455;74;75;N;190;53;fracture;N;333;40;NE;;F5;8;white br. Calc.;;0;0;0;[3-4];3;4;2.4;2.8;3.19;1.81;2.11;2.41;Limestone;;San Antonio T.;SAT;
+456;75;76;N;140;53;fault;N;232;80;NW;25NE;F1;15;karst / white br. Calc.;;0;0;0;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;;San Antonio T.;SAT;
+457;75;76;N;140;53;fracture;N;329;35;NE;;F5;7;white calcite;;0;0;0;[2-3];2;3;1.6;2;2.4;1.2;1.5;1.81;Limestone;;San Antonio T.;SAT;
+458;75;76;N;140;53;fracture;N;89;89;S;;F7;6;brown calcite;<mm;0.05;0.05;0.05;0.3;0.3;0.3;0.24;0.24;0.24;0.18;0.18;0.18;Limestone;;San Antonio T.;SAT;
+459;76;77;N;110;53;fracture;N;68;88;S;;F1;10;brown calcite;<1cm;0.1;0.55;1;50;50;50;39.93;39.93;39.93;30.09;30.09;30.09;Limestone;;San Antonio T.;SAT;
+460;76;77;N;110;53;fracture;N;10;55;E;;F3;5;white calcite;<mm;0.05;0.05;0.05;[1-2];1;2;0.8;1.2;1.6;0.6;0.9;1.2;Limestone;;San Antonio T.;SAT;
+461;76;77;N;110;53;Bedding?;N;179;50;W;;F5;1;brown calcite;;0;0;0;>50;50;65;39.93;45.92;51.91;30.09;34.6;39.12;Limestone;;San Antonio T.;SAT;
+462;77;78;N;110;53;fracture;N;60;85;SE;;F1;4;brown calcite;<1cm;0.1;0.55;1;>50;50;65;39.93;45.92;51.91;30.09;34.6;39.12;Limestone;;San Antonio T.;SAT;
+463;77;78;N;110;53;fracture;N;70;85;SE;;F1;4;karstic dark grey calcite;<1cm;0.1;0.55;1;>50;50;65;39.93;45.92;51.91;30.09;34.6;39.12;Limestone;;San Antonio T.;SAT;
+464;77;78;N;110;53;fault;N;345;38;W;/15NW;F5;6;white calcite;<mm;0.05;0.05;0.05;2;2;2;1.6;1.6;1.6;1.2;1.2;1.2;Limestone;;San Antonio T.;SAT;
+465;78;79;N;120;53;fracture;N;260;70;N;;F7;5;karst brown calcite;<1cm;0.1;0.55;1;6;6;6;4.79;4.79;4.79;3.61;3.61;3.61;Limestone;;San Antonio T.;SAT;
+466;78;79;N;120;53;fracture;N;70;85;SE;;F1;5;brown calcite;<mm;0.05;0.05;0.05;[10-50];10;50;7.99;23.96;39.93;6.02;18.05;30.09;Limestone;;San Antonio T.;SAT;
+467;78;79;N;120;53;fracture;N;358;44;E;;F5;12;;PO;0.05;0.08;0.1;[1-3];1;3;0.8;1.6;2.4;0.6;1.2;1.81;Limestone;;San Antonio T.;SAT;
+468;79;80;N;120;53;fracture;N;54;88;SE;;F1;9;karst brown calcite;<1cm;0.1;0.55;1;[10-50];10;50;7.99;23.96;39.93;6.02;18.05;30.09;Limestone;;San Antonio T.;SAT;
+469;79;80;N;120;53;fracture;N;328;40;E;;F5;8;white calcite;<1mm;0.05;0.08;0.1;[1-3];1;3;0.8;1.6;2.4;0.6;1.2;1.81;Limestone;;San Antonio T.;SAT;
+470;79;80;N;120;53;Bedding?;N;158;52;W;;F5;6;;;0;0;0;[10-50];10;50;7.99;23.96;39.93;6.02;18.05;30.09;Limestone;;San Antonio T.;SAT;
+471;80;81;N;105;40;fault;N;24;20;SE;/15NE;F3;2;white calcite;<3mm;0.05;0.18;0.3;1;1;1;0.64;0.64;0.64;0.77;0.77;0.77;Limestone;;San Antonio T.;SAT;
+472;80;81;N;105;40;fracture;N;80;70;S;;F7;4;;;0;0;0;[1-2];;2;0;0.64;1.29;0;0.77;1.53;Limestone;;San Antonio T.;SAT;
+473;80;81;N;105;40;fracture;N;2;40;E;;F5;2;white calcite;;0;0;0;0.5;0.5;0.5;0.32;0.32;0.32;0.38;0.38;0.38;Limestone;;San Antonio T.;SAT;
+474;80;81;N;105;40;fracture;N;60;80;SE;;F1;4;;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+475;81;83;N;105;40;Bedding?;N;158;25;W;;F5;6;;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+476;81;83;N;105;40;fracture;N;60;88;SE;;F1;6;brown calcite;<mm;0.05;0.05;0.05;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+477;81;83;N;105;40;fracture;N;98;80;S;;F4;4;brown calcite;;0;0;0;1;1;1;0.64;0.64;0.64;0.77;0.77;0.77;Limestone;discreet;San Antonio T.;SAT;
+478;83;85;N;105;40;Bedding?;N;170;44;W;;F5;3;brown calcite;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+479;83;85;N;105;40;fault;N;32;18;E;;F3;3;white br. Calc.;;0;0;0;[1-10];1;10;0.64;3.54;6.43;0.77;4.21;7.66;Limestone;;San Antonio T.;SAT;
+480;83;85;N;105;40;fault;N;43;50;E;/22ENE;F1;4;white calcite;<1.5mm;0.05;0.1;0.15;[1-10];1;10;0.64;3.54;6.43;0.77;4.21;7.66;Limestone;;San Antonio T.;SAT;
+481;83;85;N;105;40;fracture;N;52;85;E;;F1;5;very thin calcite;;0.05;0.1;0.15;>10;10;25;6.43;11.25;16.07;7.66;13.41;19.15;Limestone;;San Antonio T.;SAT;
+482;85;86;N;105;40;fault;N;30;49;SE;;F3;6;white calcite;<1.5mm;0.05;0.1;0.15;[1-10];1;10;0.64;3.54;6.43;0.77;4.21;7.66;Limestone;;San Antonio T.;SAT;
+483;85;86;N;105;40;fault;N;93;70;S;/50SE;F4;3;white calcite;<1.5mm;0.05;0.1;0.15;[5-10];5;10;3.21;4.82;6.43;3.83;5.75;7.66;Limestone;normal;San Antonio T.;SAT;
+484;85;86;N;105;40;fault;N;90;85;S;;F4;2;white calcite;<1.5mm;0.05;0.1;0.15;[5-10];5;10;3.21;4.82;6.43;3.83;5.75;7.66;Limestone;Major event;San Antonio T.;SAT;
+485;86;87;N;105;40;fracture;N;260;70;NW;;F7;6;brown calcite;<1cm;0.1;0.55;1;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+486;86;87;N;105;40;Bedding?;N;168;60;W;;F5;6;;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+487;87;88;N;105;40;fracture;N;240;85;W;;F1;7;brown calcite;<2cm;0.1;1.05;2;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+488;87;88;N;105;40;Bedding?;N;168;52;W;;F5;1;;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+489;87;88;N;105;40;fracture;N;20;42;E;;F3;4;;;0;0;0;[1-2];1;2;0.64;0.96;1.29;0.77;1.15;1.53;Limestone;;San Antonio T.;SAT;
+490;88;89;N;130;40;fracture;N;240;85;N;;F1;4;brown calcite;;0;0;0;10;10;10;6.43;6.43;6.43;7.66;7.66;7.66;Limestone;;San Antonio T.;SAT;
+491;88;89;N;130;40;Bedding?;N;170;48;W;;F5;4;white br. Calc.;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+492;89;90;N;130;40;fracture;N;100;86;S;;F4;3;brown calcite;<mm;0.05;0.05;0.05;[10-20];10;20;6.43;9.64;12.86;7.66;11.49;15.32;Limestone;;San Antonio T.;SAT;
+493;89;90;N;130;40;fracture;N;70;85;S;;F1;2;brown calcite;<mm;0.05;0.05;0.05;[10-20];10;20;6.43;9.64;12.86;7.66;11.49;15.32;Limestone;;San Antonio T.;SAT;
+494;89;90;N;130;40;Bedding?;N;169;55;W;;F5;3;brown calcite;<1cm;0.1;0.55;1;[10-50];10;20;6.43;9.64;12.86;7.66;11.49;15.32;Limestone;;San Antonio T.;SAT;
+495;89;90;N;130;40;joint;N;340;60;NE;;F5;6;white calcite;<mm;0.05;0.05;0.05;[1-2];1;2;0.64;0.96;1.29;0.77;1.15;1.53;Limestone;;San Antonio T.;SAT;
+496;90;91;N;130;40;fracture;N;78;88;S;;F7;4;brown calcite;;0;0;0;0.4;0.4;0.4;0.26;0.26;0.26;0.31;0.31;0.31;Limestone;;San Antonio T.;SAT;
+497;90;91;N;130;40;Bedding?;N;180;74;W;;F5;11;brown calcite;<2mm;0.05;0.13;0.2;1;1;1;0.64;0.64;0.64;0.77;0.77;0.77;Limestone;;San Antonio T.;SAT;
+498;90;91;N;130;40;joint;N;340;40;NE;;F5;4;white calcite;<mm;0.05;0.05;0.05;10;10;10;6.43;6.43;6.43;7.66;7.66;7.66;Limestone;;San Antonio T.;SAT;
+499;91;92;N;140;40;fracture;N;250;75;S;;F1;4;brown calcite;<1cm;0.1;0.55;1;10;10;10;6.43;6.43;6.43;7.66;7.66;7.66;Limestone;;San Antonio T.;SAT;
+500;91;92;N;140;40;fracture;N;335;50;NE;;F5;6;white calcite;<2mm;0.05;0.13;0.2;[2-5];2;5;1.29;2.25;3.21;1.53;2.68;3.83;Limestone;;San Antonio T.;SAT;
+501;92;93;N;140;40;joint;N;78;84;S;;F7;4;brown calcite;;0;0;0;[1-2];1;2;0.64;0.96;1.29;0.77;1.15;1.53;Limestone;;San Antonio T.;SAT;
+502;92;93;N;140;40;fracture;N;320;35;NE;;F2;3;white br. Calc.;<1cm;0.1;0.55;1;1;1;1;0.64;0.64;0.64;0.77;0.77;0.77;Limestone;;San Antonio T.;SAT;
+503;93;94;N;140;40;fracture;N;220;70;NW;;F3;5;karst brown calcite;<2cm;0.1;1.05;2;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;fracture - karst;San Antonio T.;SAT;
+504;93;94;N;140;40;fracture;N;348;45;NE;;F5;4;karst;<1cm;0.1;0.55;1;[3-5];3;5;1.93;2.57;3.21;2.3;3.06;3.83;Limestone;fracture - karst;San Antonio T.;SAT;
+505;94;95;N;140;40;fracture;N;240;70;NE;;F1;5;karst;<1cm;0.1;0.55;1;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;fracture - karst;San Antonio T.;SAT;
+506;94;95;N;140;40;Bedding?;N;125;58;SW;;F2;2;brown calcite;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+507;94;95;N;140;40;fracture;N;340;50;NE;;F5;6;white calcite;;0;0;0;[3-5];3;5;1.93;2.57;3.21;2.3;3.06;3.83;Limestone;;San Antonio T.;SAT;
+508;95;96;N;140;40;fracture;N;64;80;SE;;F1;10;brown calcite;<2cm;0.1;1.05;2;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+509;95;96;N;140;40;fracture;N;350;50;NE;;F5;4;white calcite;;0;0;0;[3-5];3;5;1.93;2.57;3.21;2.3;3.06;3.83;Limestone;;San Antonio T.;SAT;
+510;96;97;N;140;40;fracture;N;72;85;SE;;F1;9;karst brown calcite;<1cm;0.1;0.55;1;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+511;97;98;N;140;40;fracture;N;50;88;SE;;F1;7;brown calcite;<1cm;0.1;0.55;1;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+512;97;98;N;140;40;fracture;N;360;35;W;;F5;3;white calcite;<2mm;0.05;0.13;0.2;0.5;0.5;0.5;0.32;0.32;0.32;0.38;0.38;0.38;Limestone;;San Antonio T.;SAT;
+513;98;99;N;140;40;fracture;N;174;65;W;;F5;4;brown calcite;;0;0;0;[2-10];2;10;1.29;3.86;6.43;1.53;4.6;7.66;Limestone;;San Antonio T.;SAT;
+514;98;99;N;140;40;fracture;N;60;80;SE;;F1;4;brown calcite;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+515;98;99;N;140;40;fracture;N;154;60;W;;F5;11;;;0;0;0;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+516;99;100;N;60;40;fracture;N;80;78;S;;F7;10;brown calcite;<1cm;0.1;0.55;1;[10-50];10;50;6.43;19.28;32.14;7.66;22.98;38.3;Limestone;;San Antonio T.;SAT;
+517;99;100;N;60;40;fracture;N;330;60;NE;;F5;5;white calcite;;0;0;0;[2-3];2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;;San Antonio T.;SAT;
+518;100;101;N;80;40;fracture;N;84;74;S;;F7;2;Calcite;<1cm;0.1;0.55;1;[2-3];2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;upper part covered;San Antonio T.;SAT;
+519;100;101;N;80;40;fracture;N;75;74;S;;F1;2;Calcite;<1cm;0.1;0.55;1;[2-3];2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;upper part covered;San Antonio T.;SAT;
+520;101;102;N;80;40;fracture;N;84;74;S;;F7;4;Calcite;<1cm;0.1;0.55;1;[2-3];2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;upper part covered;San Antonio T.;SAT;
+521;101;102;N;80;40;fracture;N;75;74;S;;F1;3;Calcite;<1cm;0.1;0.55;1;[2-3];2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;upper part covered;San Antonio T.;SAT;
+522;102;103;N;80;40;fracture;N;326;26;NE;;F5;2;Calcite;<1mm;0.05;0.08;0.1;1;1;1;0.64;0.64;0.64;0.77;0.77;0.77;Limestone;brownish;San Antonio T.;SAT;
+523;102;103;N;80;40;fracture;N;84;74;S;;F7;1;Calcite;<1cm;0.1;0.55;1;[2-3];2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;brownish;San Antonio T.;SAT;
+524;103;104;N;47;40;fracture;N;96;70;S;;F4;2;Calcite;<1cm;0.1;0.55;1;2;2;2;1.29;1.29;1.29;1.53;1.53;1.53;Limestone;brownish;San Antonio T.;SAT;
+525;103;104;N;47;40;fracture;N;149;65;S;;F5;1;Calcite;1mm;0.1;0.1;0.1;1;1;1;0.64;0.64;0.64;0.77;0.77;0.77;Limestone;brownish;San Antonio T.;SAT;
+526;104;105;N;100;40;fracture;N;149;65;SW;;F5;7;Calcite;1-3 cm;1;2;3;2-3m;2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;;San Antonio T.;SAT;
+527;105;106;N;100;40;fracture;N;157;72;W;;F5;5;calcite;1mm;0.1;0.1;0.1;2-3m;2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;;San Antonio T.;SAT;
+528;106;107;N;100;40;fracture;N;191;48;W;;F3;6;calcite;1-2cm;1;1.5;2;2m;2;2;1.29;1.29;1.29;1.53;1.53;1.53;Limestone;brownish;San Antonio T.;SAT;
+529;107;108;N;125;40;fracture;N;160;63;W;;F5;4;calcite;>1cm;1;1.5;2;2-3m;2;3;1.29;1.61;1.93;1.53;1.92;2.3;Limestone;some brownish;San Antonio T.;SAT;
+530;108;109;N;125;40;fracture;N;170;52;W;;F5;6;calcite;1-3cm;1;2;3;5m;5;5;3.21;3.21;3.21;3.83;3.83;3.83;Limestone;;San Antonio T.;SAT;
+531;109;110;N;80;40;fracture;N;355;32;E;;F5;2;calcite;1mm;0.1;0.1;0.1;20cm;0.2;0.2;0.13;0.13;0.13;0.15;0.15;0.15;Limestone;;San Antonio T.;SAT;
+532;109;110;N;80;40;fracture;N;163;63;W;;F5;2;calcite; 1-3cm;1;2;3;5m;5;5;3.21;3.21;3.21;3.83;3.83;3.83;Limestone;;San Antonio T.;SAT;
+533;110;111;N;100;45;fracture;N;114;60;NW;;F4;5;calcite;1-2cm;1;1.5;2;2m;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+534;110;111;N;100;45;fracture;N;36;37;E;;F3;2;calcite;1mm;0.1;0.1;0.1;1m;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;;San Antonio T.;SAT;
+535;111;112;N;100;45;fracture;N;54;55;SE;;F1;4;calcite;1-3cm;1;2;3;2m;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+536;112;113;N;160;45;fracture;N;68;52;S;;F1;2;calcite;1-5 cm;1;3;5;2m;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+537;113;114;N;115;45;fracture;N;210;73;NW;;F3;2;calcite;1mm-3cm;0.1;1.55;3;5m;5;5;3.54;3.54;3.54;3.54;3.54;3.54;Limestone;;San Antonio T.;SAT;
+538;114;115;N;135;45;fracture;N;166;88;W;;F5;2;calcite;1-3 mm;0.1;1.55;3;2m;2;2;1.41;1.41;1.41;1.41;1.41;1.41;Limestone;;San Antonio T.;SAT;
+539;115;116;N;135;45;fracture;N;189;74;W;;F5;3;calcite;5 cm;5;5;5;1-2m;1;2;0.71;1.06;1.41;0.71;1.06;1.41;Limestone;;San Antonio T.;SAT;
+540;116;117;N;170;45;fracture;N;112;47;NW;;F4;2;calcite;1-3cm ;1;2;3;1m;1;1;0.71;0.71;0.71;0.71;0.71;0.71;Limestone;;San Antonio T.;SAT;
+541;116;117;N;170;45;;N;65;73;E;;F1;2;calcite;1-5cm;1;3;5;6m;6;6;4.24;4.24;4.24;4.24;4.24;4.24;Limestone;;San Antonio T.;SAT;
+542;117;118;N;170;45;fracture;N;247;86;NW;;F1;1;calcite;1-5cm;1;3;5;6m;6;6;4.24;4.24;4.24;4.24;4.24;4.24;Limestone;;San Antonio T.;SAT;
+543;118;119;N;80;45;fracture;N;179;72;W;;F5;2;calcite;<1cm;0.1;0.55;1;3-5m;3;5;2.12;2.83;3.54;2.12;2.83;3.54;Limestone;;San Antonio T.;SAT;
+544;119;120;N;80;45;fracture;N;179;72;W;;F5;2;calcite;<1cm;0.1;0.55;1;3-5m;3;5;2.12;2.83;3.54;2.12;2.83;3.54;Limestone;;San Antonio T.;SAT;
+545;120;121;N;80;55;fracture;N;179;72;W;;F5;2;calcite;1-3cm;1;2;3;3m;3;3;2.46;2.46;2.46;1.72;1.72;1.72;Limestone;;San Antonio T.;SAT;
+546;121;122;N;135;55;fracture;N;13;90;W;;F3;3;calcite;1-3cm;1;2;3;8m;8;8;6.55;6.55;6.55;4.59;4.59;4.59;Limestone;;San Antonio T.;SAT;
+547;121;122;N;135;55;fracture;N;155;75;SW;;F5;1;calcite;1-3cm;1;2;3;3m;3;3;2.46;2.46;2.46;1.72;1.72;1.72;Limestone;;San Antonio T.;SAT;
+548;122;123;N;135;55;fracture;N;208;82;NW;;F3;3;calcite;1-8cm;1;4.5;8;10m;10;10;8.19;8.19;8.19;5.74;5.74;5.74;Limestone;Fault zone;San Antonio T.;SAT;
+549;122;123;N;135;55;fracture;N;60;17;SE;;F1;2;calcite;1-5cm;1;3;5;5m;5;5;4.1;4.1;4.1;2.87;2.87;2.87;Limestone;;San Antonio T.;SAT;
+550;123;124;N;160;55;fracture;N;16;32;E;;F3;4;calcite;1-5cm;1;3;5;2m;2;2;1.64;1.64;1.64;1.15;1.15;1.15;Limestone;Fault zone;San Antonio T.;SAT;
+551;124;125;N;160;55;fracture;N;215;79;NW;;F3;5;calcite;"1-5cm; ";1;3;5;"1-2m; ";1;2;0.82;1.23;1.64;0.57;0.86;1.15;Limestone;fault zone. brownish alteration;San Antonio T.;SAT;
+552;124;125;N;160;55;fracture;N;210;88;NW;;F3;5;calcite;1-3cm;1;2;3;10m;10;10;8.19;8.19;8.19;5.74;5.74;5.74;Limestone;fault zone. brownish alteration;San Antonio T.;SAT;
+553;125;126;N;160;55;fracture/fault;N;161;79;N;;F5;5;calcite;1-3cm;1;2;3;5m;5;5;4.1;4.1;4.1;2.87;2.87;2.87;Limestone;fault zone. brownish alteration;San Antonio T.;SAT;
+554;125;126;N;160;55;fracture/fault;N;113;85;NW;;F4;1;calcite;1-3cm;1;2;3;5m;5;5;4.1;4.1;4.1;2.87;2.87;2.87;Limestone;fault zone. brownish alteration;San Antonio T.;SAT;
+555;126;127;N;160;55;fracture;N;73;83;S;;F1;1;calcite;1-3mm;0.1;0.2;0.3;1m;1;1;0.82;0.82;0.82;0.57;0.57;0.57;Limestone;fault zone. brownish alteration;San Antonio T.;SAT;
+556;127;128;N;160;55;fracture;N;115;79;N;;F4;1;calcite;1-5cm;1;3;5;[5-10]m;5;10;4.1;6.14;8.19;2.87;4.3;5.74;Limestone;within fault zone (30 m fractured zone);San Antonio T.;SAT;
+557;128;129;N;153;55;fracture or bedding;N;162;7;W;;F5;1;calcite;1-5cm;1;3;5;"10m; ";10;10;8.19;8.19;8.19;5.74;5.74;5.74;Limestone;;San Antonio T.;SAT;
+558;128;129;N;153;55;fracture or bedding;N;85;3;SW;;F6;1;calcite;5cm;5;5;5;3-5m;3;5;2.46;3.28;4.1;1.72;2.29;2.87;Limestone;;San Antonio T.;SAT;
+559;129;130;N;153;55;fracture;N;154;66;N;;F5;1;open;1-5cm ;1;3;5;10m;10;10;8.19;8.19;8.19;5.74;5.74;5.74;Limestone;;San Antonio T.;SAT;
+560;129;130;N;153;55;;;50;37;SW;;F1;1;open;5cm;5;5;5; 3-5m;3;5;2.46;3.28;4.1;1.72;2.29;2.87;Limestone;;San Antonio T.;SAT;
+561;130;131;N;153;63;fracture;N;144;89;NW;;F2;2;open;>1cm;1;1.5;2;2m;2;2;1.78;1.78;1.78;0.91;0.91;0.91;Limestone;brownish;San Antonio T.;SAT;
+562;131;132;N;153;63;fault;N;198;63;W;;F3;6;open;1-3cm;1;2;3;1-8m;1;8;0.89;4.01;7.13;0.45;2.04;3.63;Limestone;Fault and brownish;San Antonio T.;SAT;
+563;132;133;N;153;63;fault;N;89;73;S;;F7;7;open;1mm-5cm;0.1;2.55;5;5m;5;5;4.46;4.46;4.46;2.27;2.27;2.27;Limestone;;San Antonio T.;SAT;
+564;133;134;N;153;63;fault;N;198;50;W;;F3;7;open;1-3cm;1;2;3;3m;3;3;2.67;2.67;2.67;1.36;1.36;1.36;Limestone;Brwonish;San Antonio T.;SAT;
+565;134;135;N;150;63;fault;N;7;77;E;;F5;10;open;1-5cm;1;3;5;<2m;0.5;2;0.45;1.11;1.78;0.23;0.57;0.91;Limestone;Fault zone;San Antonio T.;SAT;
+566;135;136;N;150;63;fracture or bedding;N;45;82;S;;F1;5;open;1mm;0.1;0.1;0.1;2-3m;2;3;1.78;2.23;2.67;0.91;1.13;1.36;Limestone;Fault zone;San Antonio T.;SAT;
+567;135;136;N;150;63;fracture or bedding;N;70;27;S;;F1;3;open;3cm;3;3;3;2-3m;2;3;1.78;2.23;2.67;0.91;1.13;1.36;Limestone;Fault zone;San Antonio T.;SAT;
+568;136;137;N;150;63;fracture or bedding;N;73;79;S;;F1;1;open;"1-3cm;";1;2;3;"3m; ";3;3;2.67;2.67;2.67;1.36;1.36;1.36;Limestone;bedding?;San Antonio T.;SAT;
+569;136;137;N;150;63;fracture or bedding;N;109;19;S;;F6;4;open; 1-3mm;0.1;0.2;0.3;1m;1;1;0.89;0.89;0.89;0.45;0.45;0.45;Limestone;;San Antonio T.;SAT;
+570;137;138;N;150;63;fracture or bedding;N;136;76;NW;;F2;3;aragonite;1-3cm;1;2;3;3m;3;3;2.67;2.67;2.67;1.36;1.36;1.36;Limestone;Aregonite?;San Antonio T.;SAT;
+571;138;139;N;150;63;fracture or bedding;N;184;65;N;;F5;4;aragonite;1mm-3cm;0.1;1.55;3;2m;2;2;1.78;1.78;1.78;0.91;0.91;0.91;Limestone;Aregonite?;San Antonio T.;SAT;
+572;139;140;N;150;63;fracture or bedding;N;82;74;S;;F7;10;aragonite;1mm-3cm;0.1;1.55;3;2m;2;2;1.78;1.78;1.78;0.91;0.91;0.91;Limestone;Aregonite?;San Antonio T.;SAT;
+573;139;140;N;150;63;fracture or bedding;N;108;77;S;;F4;1;aragonite;1mm-3cm;0.1;1.55;3;2m;2;2;1.78;1.78;1.78;0.91;0.91;0.91;Limestone;Aregonite?;San Antonio T.;SAT;
+574;140;141;N;150;60;fracture or bedding;N;255;74;N;;F1;10;aragonite;1-3mm;0.1;0.2;0.3;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;Aregonite?;San Antonio T.;SAT;
+575;140;141;N;150;60;fracture or bedding;N;229;64;NW;;F1;1;aragonite;1-3mm;0.1;0.2;0.3;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;Aregonite?;San Antonio T.;SAT;
+576;141;142;N;150;60;fracture or bedding;N;117;69;NW;;F2;4;aragonite;1mm-3cm;0.1;1.55;3;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;;San Antonio T.;SAT;
+577;142;143;N;150;60;shear fracture;N;127;78;NW;;F2;1;aragonite;"1-3mm; ";0.1;0.2;0.3;"1-1.5m; ";1;1.5;0.87;1.08;1.3;0.5;0.63;0.75;Limestone;close to fault (thrust);San Antonio T.;SAT;
+578;142;143;N;150;60;shear fracture;N;160;46;N;;F5;14;aragonite;1-3mm;0.1;0.2;0.3;1-2m;1;2;0.87;1.3;1.73;0.5;0.75;1;Limestone;close to fault (thrust);San Antonio T.;SAT;
+579;143;144;N;144;60;shear fracture;N;91;89;S;;F4;2;"open;";"3-5cm; ";1;3;5;"2m; ";2;2;1.73;1.73;1.73;1;1;1;Limestone;fault zone;San Antonio T.;SAT;
+580;143;144;N;144;60;shear fracture;N;214;7;NW;;F3;2; calcite filled;1-3mm;0.1;0.2;0.3;1m;1;1;0.87;0.87;0.87;0.5;0.5;0.5;Limestone;;San Antonio T.;SAT;
+581;144;145;N;144;60;shear fracture;N;208;50;NW;;F3;5;open;1-3 cm;1;2;3;1m;1;1;0.87;0.87;0.87;0.5;0.5;0.5;Limestone;under the fault;San Antonio T.;SAT;
+582;145;146;N;144;60;shear fracture;N;20;77;S;;F3;3;open;"1-3cm;";1;2;3;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;brownish;San Antonio T.;SAT;
+583;145;146;N;144;60;shear fracture;N;141;65;SW;;F2;1;open; 1mm-3cm;0.1;1.55;3;"; 2m";2;2;1.73;1.73;1.73;1;1;1;Limestone;;San Antonio T.;SAT;
+584;146;147;N;167;60;fracture;N;232;62;NW;;F1;7;calcite filled;1-5mm;0.1;0.3;0.5;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;brownish;San Antonio T.;SAT;
+585;147;148;N;167;60;fracture;N;54;86;SE;;F1;5;calcite filled;1-3mm;0.1;0.2;0.3;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;under fault;San Antonio T.;SAT;
+586;147;148;N;167;60;fracture;N;115;3;NW;;F6;5;calcite filled;1-3mm;0.1;0.2;0.3;2m;2;2;1.73;1.73;1.73;1;1;1;Limestone;under fault;San Antonio T.;SAT;
+587;148;149;N;167;60;fracture;N;151;63;N;;F5;21;calcite filled;1-3mm;0.1;0.2;0.3;1-2m;1;2;0.87;1.3;1.73;0.5;0.75;1;Limestone;Breccia;San Antonio T.;SAT;
+588;149;150;N;163;60;fracture;N;120;60;NW;;F2;12;calcite filled;1-2cm;1;1.5;2;<1m;0.5;1;0.43;0.65;0.87;0.25;0.38;0.5;Limestone;Breccia;San Antonio T.;SAT;
+589;150;151;N;163;70;fracture;N;120;60;NW;;F2;25;calcite filled;1mm-3cm;0.1;1.55;3;4m;4;4;3.76;3.76;3.76;1.37;1.37;1.37;Limestone;Breccia;San Antonio T.;SAT;
+590;151;152;N;140;70;fracture;N;73;86;S;;F1;5;calcite filled;1-3mm;0.1;0.2;0.3;2-3m;2;3;1.88;2.35;2.82;0.68;0.86;1.03;Limestone;Breccia;San Antonio T.;SAT;
+591;152;153;N;140;70;shear fracture;N;190;67;W;;F3;2;calcite filled;1-3cm;1;2;3;1-2m;1;2;0.94;1.41;1.88;0.34;0.51;0.68;Limestone;cemented breccia;San Antonio T.;SAT;
+592;152;153;N;140;70;shear fracture;N;230;54;NW;;F1;5;calcite filled;1-3cm;1;2;3;1-2m;1;2;0.94;1.41;1.88;0.34;0.51;0.68;Limestone;cemented breccia;San Antonio T.;SAT;
+593;153;154;N;125;70;fractures or bedding;N;192;50;W;;F3;4;calcite filled;1-3cm;1;2;3;1m;1;1;0.94;0.94;0.94;0.34;0.34;0.34;Limestone;cemented breccia;San Antonio T.;SAT;
+594;153;154;N;125;70;fractures or bedding;N;10;60;E;;F3;2;calcite filled;1-3cm;1;2;3;1m;1;1;0.94;0.94;0.94;0.34;0.34;0.34;Limestone;cemented breccia;San Antonio T.;SAT;
+595;154;155;N;125;70;fractures or bedding;N;186;45;W;;F5;7;calcite filled;1-3mm;0.1;0.2;0.3;1m;1;1;0.94;0.94;0.94;0.34;0.34;0.34;Limestone;cemented breccia;San Antonio T.;SAT;
+596;155;156;N;125;70;fault;N;321;87;NE;;F2;0;;1-3cm;1;2;3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;cemented breccia;San Antonio T.;SAT;
+597;155;156;N;125;70;open fracture;N;53;33;SE;;F1;0;;1-3cm;1;2;3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;cemented breccia;San Antonio T.;SAT;
+598;156;157;N;125;70;fracture open;N;51;72;SE;;F1;2;open;1-3mm;0.1;0.2;0.3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;Breccia;San Antonio T.;SAT;
+599;157;158;N;170;70;fracture;N;216;55;NW;;F3;2;calcite;1-3mm;0.1;0.2;0.3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;brownish breccia;San Antonio T.;SAT;
+600;157;158;N;170;70;fracture;N;48;63;SW;;F1;1;calcite;1-3mm;0.1;0.2;0.3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;brownish breccia;San Antonio T.;SAT;
+601;158;159;N;170;70;fracture;N;208;88;NW;;F3;7;calcite;1-3mm;0.1;0.2;0.3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;brownish breccia;San Antonio T.;SAT;
+602;159;160;N;107;70;fracture;N;190;59;W;;F3;7;calcite;1-3mm;0.1;0.2;0.3;3m;3;3;2.82;2.82;2.82;1.03;1.03;1.03;Limestone;Breccia;San Antonio T.;SAT;
+603;160;161;N;112;70;fracture;N;25;34;SW;;F3;15;calcite;1-3mm;0.1;0.2;0.3;1-2m;1;2;0.94;1.41;1.88;0.34;0.51;0.68;Limestone;Breccia;San Antonio T.;SAT;
+604;160;161;N;112;70;fault;N;180;64;W;;F5;1;calcite;1-3mm;0.1;0.2;0.3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;Breccia;San Antonio T.;SAT;
+605;161;162;N;112;70;fault;N;347;46;E;;F5;1;calcite;"1-3cm;";1;2;3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;fault core;San Antonio T.;SAT;
+606;161;162;N;112;70;fracture;N;39;35;SW;;F3;15;calcite;" 1-3cm; ";1;2;3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;fault core;San Antonio T.;SAT;
+607;161;162;N;112;70;fracture;N;332;73;NE;;F5;15;calcite;1-3cm;1;2;3;2m;2;2;1.88;1.88;1.88;0.68;0.68;0.68;Limestone;fault core;San Antonio T.;SAT;
+608;0;0;N;0;0;Before  WNW;N;130;25;SW;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+609;0;0;N;0;0;Before  WNW;N;145;85;S;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+610;0;0;N;0;0;Before  WNW;N;145;40;W;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+611;0;0;N;0;0;Before  WNW;N;110;60;E;;F4;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+612;0;0;N;0;0;Before  WNW;N;125;60;E;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+613;0;0;N;0;0;Before  WNW;N;140;50;W;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+614;0;0;N;0;0;Before  WNW;N;50;60;S;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;Before scanline WNW side
+615;0;0;N;0;0;After WNW;N;175;30;W;;F5;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+616;0;0;N;0;0;After WNW;N;70;30;E;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+617;0;0;N;0;0;After WNW;N;145;65;E;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+618;0;0;N;0;0;After WNW;N;45;25;SE;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+619;0;0;N;0;0;After WNW;N;65;85;NW;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+620;0;0;N;0;0;After WNW;N;175;30;W;;F5;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+621;0;0;N;0;0;After WNW;N;45;85;SE;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+622;0;0;N;0;0;After WNW;N;50;85;N;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+623;0;0;N;0;0;After WNW;N;135;75;E;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline WNW side
+624;0;0;N;0;0;After SES;N;50;85;N;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+625;0;0;N;0;0;After SES;N;170;40;W;;F5;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+626;0;0;N;0;0;After SES;N;170;40;W;;F5;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+627;0;0;N;0;0;After SES;N;170;70;E;;F5;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+628;0;0;N;0;0;After SES;N;80;75;S;;F7;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+629;0;0;N;0;0;After SES;N;65;89;N;;F1;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+630;0;0;N;0;0;After SES;N;90;75;N;;F4;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+631;0;0;N;0;0;After SES;N;135;40;E;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+632;0;0;N;0;0;After SES;N;140;50;E;;F2;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
+633;0;0;N;0;0;After SES;N;150;45;E;;F5;1;;;0;0;0;;;;0;0;;0;0;;Limestone;Bat interpretation;San Antonio T.;nan;After scanline SES side
