@@ -9,4 +9,4 @@ The Skapy_script1 runs a classification of the fractures into structural sets,
  If you would need a dataset to run an example, you could use the here-attached .csv file.
  
  If you would need more information, please contact me @:
- b.p.lepillier@tudelft.nl
+ b.lepillier@yahoo.fr
